@@ -1,0 +1,195 @@
+{
+  "API_675": {
+    "document_header": {
+      "company_logos": [
+        "DUQM REFINERY",
+        "TECNICAS REUNIDAS",
+        "DAEWOO E&C"
+      ],
+      "document_title": "CENTRIFUGAL PUMPS",
+      "document_subtitle": "\u0391\u03a1\u0399 610 11TH EDITION DATA SHEET SI UNITS",
+      "job_no": "10121",
+      "item_no": "120P-055 A/B",
+      "purchase_order_no": "DRP001-PUC-SPE-R-000-005",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "04",
+      "date": "19-mar-21",
+      "page_info": {
+        "page": 5,
+        "of": 7,
+        "by": "S. Rossetti"
+      },
+      "doc_number": "DRP001-PUC-GAB-A30-120P-055A-0001"
+    },
+    "revision_history": [
+      {
+        "rev": "Not found"
+      }
+    ],
+    "surface_preparation_and_paint_p8": {
+      "title": "SURFACE PREPARATION AND PAINT (P8)",
+      "note": "Not found",
+      "standard_selection": {
+        "manufacturer_standard": false,
+        "other_see_below": true,
+        "specification_no": "DRP001-PUC-SPE-W-000-008",
+        "is_spec_no_applicable": "YES"
+      },
+      "pump": {
+        "title": "PUMP:",
+        "surface_preparation": "UNI EN ISO 8501-1 SA 2\u00bd",
+        "primer": "Inorganic Zinc Primer",
+        "finish_coat": "RAL 7035 Light Grey"
+      },
+      "baseplate": {
+        "title": "BASEPLATE:",
+        "surface_preparation": "Suitable for Epoxy Grout",
+        "primer": "Epoxy Zinc Rich Primer",
+        "finish_coat": "RAL 7035 Light Grey"
+      },
+      "details_of_lifting_devices": "Not found"
+    },
+    "shipment_8_4_1": {
+      "title": "SHIPMENT: (8.4.1)",
+      "type": "EXPORT",
+      "export_boxing_required": "YES",
+      "outdoor_storage_more_than_6_months": "YES"
+    },
+    "spare_rotor_assembly": {
+      "title": "SPARE ROTOR ASSEMBLY PACKAGED FOR:",
+      "rotor_storage_orientation_9_2_8_2": "Not found",
+      "shipping_and_storage_container_for_vert_storage_9_2_8_3": "Not found"
+    },
+    "n2_purge_9_2_8_4": {
+      "title": "N2 PURGE (9.2.8.4)",
+      "value": "Not found"
+    },
+    "spare_parts": {
+      "title": "SPARE PARTS",
+      "start_up": "YES",
+      "normal_maintenance_m11": "YES"
+    },
+    "weights_kg": {
+      "title": "WEIGHTS kg",
+      "items": [
+        {
+          "ITEM No": "120P-055A",
+          "PUMP": 290,
+          "DRIVER": 879,
+          "OTHER": 167,
+          "BASE": 647,
+          "TOTAL": 2015
+        },
+        {
+          "ITEM No": "120P-055B",
+          "PUMP": 290,
+          "DRIVER": 879,
+          "OTHER": 167,
+          "BASE": 647,
+          "TOTAL": 2015
+        }
+      ]
+    },
+    "other_purchaser_requirements": {
+      "title": "OTHER PURCHASER REQUIREMENTS",
+      "coordination_meeting_required_10_1_3": "YES",
+      "maximum_discharge_pressure_to_include_m2": {
+        "max_relative_density": "YES",
+        "operation_to_trip_speed": "NO",
+        "max_dia_impellers_and_or_no_of_stages": "NO"
+      },
+      "connection_design_approval_9_2_1_4": "NO",
+      "torsional_analysis_report_6_9_2_10": "NO",
+      "progress_reports": "YES",
+      "outline_of_proc_for_optional_tests_10_2_5": "Not found",
+      "additionnal_data_requiring_20_years_retention_8_2_1_1": "Not found",
+      "lateral_analysis_required_9_1_3_4_9_2_4_1_3": "NO",
+      "modal_analysis_required_9_3_9_2": "NO",
+      "dynamic_balance_rotor_6_9_4_4": "Not found",
+      "installation_list_in_proposal_10_2_3_1": "YES",
+      "vfd_steady_state_damped_response_analysis_6_9_2_3": "Not found",
+      "transient_torsional_response_6_9_2_4": "Not found",
+      "bearing_life_calculations_required_6_10_1_6": "YES",
+      "ignition_hazard_assmt_to_en_13463_1_7_2_13_e": "Not found",
+      "casing_retirement_thickness_drawing_10_3_2_3": "Not found",
+      "flanges_rqd_in_place_of_skt_weld_unions_7_5_2_8": "YES",
+      "include_plotted_vibration_spectra_6_9_3_3": "YES",
+      "connection_bolting_7_5_1_7": "Not found",
+      "cadmium_plated_bolts_prohibited": "Not found",
+      "vendor_to_keep_repair_and_ht_rcds_8_2_1_1_c": "YES",
+      "vendor_submit_test_procedures_8_3_1_1": "YES",
+      "submit_inspection_check_list_8_1_5": "YES"
+    },
+    "test_m10": {
+      "title": "TEST (M10)",
+      "shop_inspection_8_1_1": "Yes",
+      "performance_curve_and_data_approval_prior_to_shipment": "YES",
+      "test_with_substitute_seal_8_3_3_2_b": "NO",
+      "material_certification_required_6_12_1_8": {
+        "casing": "YES",
+        "impeller": "YES",
+        "shaft": "YES",
+        "other": "YES"
+      },
+      "casting_repair_weld_procedure_appr_reqd_6_12_2_5_6_12_3_1": "YES",
+      "inspection_required_for_connection_welds_6_12_3_4_d": {
+        "mag_particle_6_12_3_4_e": "YES",
+        "radiography": "NO",
+        "liquid_penetrant": "YES",
+        "ultrasonic": "NO"
+      },
+      "inspection_required_for_castings": {
+        "mag_particle": "YES",
+        "radiography": "NO",
+        "liquid_penetrant": "YES",
+        "ultrasonic": "NO"
+      },
+      "hardness_test_required_8_2_2_7": "NO",
+      "addnl_subsurface_examination_6_12_1_5_8_2_1_3": {
+        "required": "YES",
+        "for": "SHAFT",
+        "method": "MT / PT and UT"
+      },
+      "pmi_testing_required_8_2_2_8": {
+        "required": "YES",
+        "components_to_be_tested": "alloy, austenitic, duplex"
+      },
+      "residual_unbalance_test_j_4_1_2": "Not found",
+      "notification_of_successful_shop": "Not found",
+      "performance_test_8_1_1_c_8_3_3_5": "YES",
+      "baseplate_test_7_3_21": "YES",
+      "hydrostatic": "WIT",
+      "hydrostatic_test_of_bowls_and_column_9_3_13_2": "Not found",
+      "performance_test": "WIT",
+      "test_in_compliance_with_8_3_3_2": "8.3.3.2",
+      "test_data_points_to_8_3_3_3": "8.3.3.3",
+      "test_tolerances_to_8_3_3_4": "TABLE 16",
+      "npsh_8_3_4_3_1_8_3_4_3_4": "Not found",
+      "npsh_1st_stg_only_8_3_4_3_2": "Not found",
+      "npsh_testing_to_hi_1_6_or_iso_9906_8_3_4_3_3": "Not found",
+      "test_npsha_limited_to_110_site_npsha_8_3_3_6": "Not found",
+      "retest_on_seal_leakage_8_3_3_2_d": "OBSERVE",
+      "retest_required_after_final_head_adj_8_3_3_7_b": "Not found",
+      "complete_unit_test_8_3_4_4_1": "Not found",
+      "sound_level_test_8_3_4_5": "WIT",
+      "cleanliness_prior_to_final_assembly_8_2_2_6": "NON-WIT",
+      "location_of_cleanliness_inspection": "Not found",
+      "nozzle_load_test": "Not found",
+      "check_for_co_planar_mounting_pad_surfaces": "OBSERVE",
+      "mechanical_run_test_until_oil_temp_stable": "WIT",
+      "four_hr_mech_run_after_oil_temp_stable_8_3_4_2_1": "Not found",
+      "four_hr_mech_run_test_8_3_4_2_2": "Not found",
+      "brg_hsg_resonance_test_8_3_4_7": "Not found",
+      "structural_resonance_test_9_3_9_2": "Not found",
+      "remove_inspect_hydrodynamic_bearings_after_test_9_2_7_5": "Not found",
+      "auxiliary_equipment_test_8_3_4_6": "Not found",
+      "equipment_to_be_included_in_auxilliary_tests": "Not found",
+      "location_of_auxiliary_equipent_test": "Not found",
+      "impact_test_6_12_4_3": {
+        "per_en_13445": "Not found",
+        "per_asme_section_viii": "Not found"
+      },
+      "remove_casing_after_test": "Not found"
+    }
+  }
+}

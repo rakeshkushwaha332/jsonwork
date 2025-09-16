@@ -1,0 +1,76 @@
+{
+  "API_675": {
+    "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+    "job_no": "10121",
+    "item_no": "130P-011 A/B/C",
+    "purchase_order_no": "10120050",
+    "specification_no": "DRP001-PUC-SPE-R-000-005",
+    "revision_no": "1",
+    "date": "9-Jan-2020",
+    "page_info": {
+      "page": 6,
+      "of": 8
+    },
+    "by": "G. Buttolo",
+    "doc_number": "DRP001-PUC-GAB-A30-130P-011A-0002",
+    "revision_history": [
+      {
+        "rev": "not found"
+      }
+    ],
+    "pressure_vessel_design_code_references": {
+      "note": "THESE REFERENCES MUST BE LISTED BY THE MANUFACTURER",
+      "casting_factors_used_in_design_table_4": true,
+      "source_of_material_properties": true
+    },
+    "welding_and_repairs": {
+      "note": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER. (DEFAULT TO TABLE 10 IF NO PURCHASER PREFERENCE IS STATED)",
+      "alternate_welding_codes_and_standards": true,
+      "welding_requirement_applicable_code_or_standard": "DRP001-PUC-SPE-W-000-006",
+      "welder_operator_qualification": "TO INCLUDE IN WELDING DOSSIER",
+      "welding_procedure_qualification": "TO INCLUDE IN WELDING DOSSIER",
+      "non_pressure_retaining_structural_welding_such_as_baseplates_or_supports": "not found",
+      "magnetic_particle_or_liquid_penetrant_examination_of_plate_edges": "not found",
+      "postweld_heat_treatment": "not found",
+      "postweld_heat_treatment_of_casing_fabrication_welds": "not found"
+    },
+    "material_inspection": {
+      "note": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER",
+      "default_to_table_14": true,
+      "alternative_material_inspections_and_acceptance_criteria": "SEE TABLE 14) (8.2.2.5)",
+      "inspection_details": [
+        {
+          "type_of_inspection": "RADIOGRAPHY",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "ULTRASONIC INSPECTION",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "MAGNETIC PARTICLE INSPECTION",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "LIQUID PENETRANT INSPECTION",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "VISUAL INSPECTION (all surfaces)",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        }
+      ]
+    },
+    "remarks": "In addition to Table 14 for pressure casing material inspection requirements, Project specifications DRP001-PUC-SPE-R-000-005 Centrifugal Pumps shall be followed."
+  }
+}

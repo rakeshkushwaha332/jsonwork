@@ -1,0 +1,155 @@
+{
+  "API_675": {
+    "document_header": {
+      "company_logos": [
+        "DUQM REFINERY",
+        "TECNICAS REUNIDAS",
+        "DAEWOO E&C"
+      ],
+      "job_no": "10121",
+      "item_no": "120P-058 A/B",
+      "purchase_order_no": "1012005090",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "01",
+      "date": "20-Dec-2019",
+      "page_info": {
+        "current_page": "4",
+        "total_pages": "7"
+      },
+      "by": "G.Buttolo",
+      "doc_number": "DRP001-PUC-GAB-A30-120P-58A-0001"
+    },
+    "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+    "revision_history": {
+      "rev": "0"
+    },
+    "instrumentation": {
+      "section_title": "INSTRUMENTATION",
+      "see_attached_api_670_data_sheet": "NO",
+      "accelerometer": {
+        "code": "7.4.2.1",
+        "selected": false,
+        "number_of_accelerometers": "not found",
+        "mounting_location_of_accelerometers": "not found"
+      },
+      "provision_for_mtg_only": {
+        "code": "6.10.2.10",
+        "selected": false,
+        "m3m6": {
+          "number_of_accelerometers": "not found",
+          "mounting_location_of_accelerometers": "not found"
+        }
+      },
+      "flat_surface_required": {
+        "code": "6.10.2.11",
+        "value": "YES",
+        "m7": {
+          "number_of_accelerometers": "not found",
+          "mounting_location_of_accelerometers": "not found"
+        }
+      },
+      "vibration_probes": {
+        "code": "7.4.2.2",
+        "provisions_for_vib_probes": {
+          "selected": false
+        },
+        "number_per_radial_bearing": "not found",
+        "number_per_axial_bearing": "not found",
+        "keyphasor": {
+          "selected": false
+        }
+      },
+      "monitors_and_cables_supplied_by": {
+        "code": "7.4.2.4",
+        "selected": false
+      },
+      "temperature": {
+        "code": "7.4.2.3",
+        "provisions_for_temp_probes": {
+          "selected": false
+        },
+        "radial_bearing_temp": {
+          "number_per_radial_bearing": "not found"
+        },
+        "thrust_bearing_temp": {
+          "number_per_thrust_bearing_active_side": "not found",
+          "number_per_thrust_bearing_inactive_side": "not found"
+        }
+      },
+      "temp_gauges_with_thermowells": {
+        "code": "9.1.3.6",
+        "selected": false
+      },
+      "pressure_gauge_type": "not found"
+    },
+    "seal_support_system_mounting": {
+      "section_title": "SEAL SUPPORT SYSTEM MOUNTING",
+      "seal_support_system_mounted_on_pump_baseplate": {
+        "code": "7.5.1.4",
+        "value": "YES"
+      },
+      "identify_location_on_baseplate": "not found",
+      "interconnecting_piping_by": "Supplier"
+    },
+    "mechanical_seal": {
+      "section_title": "MECHANICAL SEAL",
+      "code": "6.8.1",
+      "see_attached_iso_21049_api_682_data_sheet": "YES",
+      "additional_central_flush_port": {
+        "code": "6.8.9",
+        "value": "NO"
+      },
+      "heating_jacket_reqd": {
+        "code": "6.8.11",
+        "value": "NO"
+      }
+    },
+    "heating_and_cooling": {
+      "section_title": "HEATING AND COOLING",
+      "code": "6.1.17",
+      "cooling_reqd": "YES",
+      "cooling_water_piping_plan": "M",
+      "cooling_water_piping": "PIPE",
+      "fittings": "not found",
+      "cooling_water_piping_materials": "CS",
+      "cooling_water_requirements": {
+        "bearing_housing": {
+          "value": "not found",
+          "unit": "m\u00b3/h"
+        },
+        "heat_exchanger": {
+          "value": "1.5",
+          "unit": "m\u00b3/h"
+        }
+      },
+      "total_cooling_water": {
+        "value": "1,5",
+        "unit": "m\u00b3/h"
+      },
+      "heating_medium": "not found",
+      "other": "not found",
+      "heating_piping": "not found"
+    },
+    "piping_and_appurtenances": {
+      "section_title": "PIPING & APPURTENANCES",
+      "manifold_piping_for_purchaser_connection": {
+        "code": "7.5.1.6",
+        "vent": "YES",
+        "drain": "YES",
+        "cooling_water": "YES"
+      },
+      "tag_all_orifices": {
+        "code": "7.5.2.4",
+        "value": "YES"
+      },
+      "socket_weld_conn_on_seal_gland": {
+        "code": "7.5.2.8",
+        "value": "NO"
+      }
+    },
+    "remarks": [
+      "Vibration and temperature Monitoring scope shall be acc. DRP001-PUC-SPE-R-000-005, considering driver, criticality and bearings type.",
+      "Machine condition monitoring Class D acc. Appendix A, DRP001-PUC-SPE-K-000-007"
+    ]
+  }
+}

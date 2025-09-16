@@ -1,0 +1,366 @@
+{
+  "API_675": {
+    "header": {
+      "companies": [
+        {
+          "name": "DUQM REFINERY",
+          "logo_text": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645"
+        },
+        {
+          "name": "TECNICAS REUNIDAS",
+          "logo_text": "t\u016b"
+        },
+        {
+          "name": "DAEWOO E&C",
+          "logo_text": "D"
+        }
+      ],
+      "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+      "job_no": "10121",
+      "item_no": "130P-010 A/B",
+      "purchase_order_no": "1012005090",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_n": "1",
+      "date": "9-Jan-20",
+      "page_info": {
+        "current": 3,
+        "total": 7,
+        "by": "G.Buttolo"
+      },
+      "doc_number": "DRP001-PUC-GAB-A30-130P-010A-0001"
+    },
+    "pump_details": {
+      "api_pump_type": {
+        "value": "OH2",
+        "note": "[Based on API 610 definitions]"
+      },
+      "nozzle_connections": {
+        "id": "M4",
+        "api_ref": "(6.5.5)",
+        "connections": [
+          {
+            "service": "SUCTION",
+            "size": "8\"",
+            "facing": "RF",
+            "rating": "300",
+            "position": "END"
+          },
+          {
+            "service": "DISCHARGE",
+            "size": "6\"",
+            "facing": "RF",
+            "rating": "300",
+            "position": "TOP"
+          }
+        ]
+      },
+      "pressure_casing_aux_connections": {
+        "api_ref": "(6.4.3.2)",
+        "connections": [
+          {
+            "service": "BALANCE/LEAK OFF",
+            "no": "-",
+            "size": null,
+            "type": null,
+            "facing": null,
+            "rating": null,
+            "posn": null
+          },
+          {
+            "service": "DRAIN",
+            "no": "1",
+            "size": "3/4\"",
+            "type": "BWF",
+            "facing": "RF",
+            "rating": "300",
+            "posn": null
+          },
+          {
+            "service": "VENT",
+            "no": null,
+            "size": null,
+            "type": null,
+            "facing": null,
+            "rating": null,
+            "posn": null
+          },
+          {
+            "service": "PRESSURE GAGE",
+            "no": "-",
+            "size": null,
+            "type": null,
+            "facing": null,
+            "rating": null,
+            "posn": null
+          },
+          {
+            "service": "TEMP GAGE",
+            "no": "-",
+            "size": null,
+            "type": null,
+            "facing": null,
+            "rating": null,
+            "posn": null
+          },
+          {
+            "service": "WARM-UP LINE",
+            "no": "-",
+            "size": null,
+            "type": null,
+            "facing": null,
+            "rating": null,
+            "posn": null
+          }
+        ]
+      },
+      "piping_and_connections": {
+        "drain_valve_supplied_by": "SUPPLIER",
+        "drains_manifolded": "YES",
+        "vent_valve_supplied_by": "SELF VENTING",
+        "vents_manifolded": null,
+        "threaded_cons_for_pipeline_service_less_than_50C": {
+          "api_ref": "(6.4.3.2)",
+          "value": null
+        },
+        "special_fittings_for_transitioning": {
+          "api_ref": "(6.4.3.3)",
+          "value": null
+        },
+        "cylindrical_threads_required": {
+          "api_ref": "(6.4.3.8)",
+          "value": null
+        },
+        "gusset_support_required": "YES",
+        "machined_and_studded_connections": {
+          "api_ref": "(6.4.3.12)",
+          "value": null
+        },
+        "vs_6_drain": "N/A",
+        "drain_to_skid_edge": "YES"
+      }
+    },
+    "construction": {
+      "casing_mounting": "CENTERLINE",
+      "casing_type": {
+        "api_ref": "(6.3.10)",
+        "value": "VOLUTE"
+      },
+      "oh3_backpullout_lifting_device_reqd": {
+        "api_ref": "(9.1.2.6)",
+        "value": null
+      },
+      "case_pressure_rating": {
+        "mawp": {
+          "api_ref": "(6.3.6)",
+          "value": 41,
+          "unit": "kg/cm2g",
+          "temperature": 90,
+          "temp_unit": "\u00b0C"
+        },
+        "hydrotest": {
+          "note": "(1.5xMAWP)",
+          "value": 61.2,
+          "unit": "kg/cm2g",
+          "temperature": 20,
+          "temp_unit": "\u00b0C"
+        }
+      },
+      "hydrotest_oh_pump_as_assembly": "N/A",
+      "suctn_press_regions_designed_for_mawp": {
+        "value": "YES",
+        "revision": "01"
+      }
+    },
+    "rotation": {
+      "direction": "CW",
+      "note": "(VIEWED FROM COUPLING END)",
+      "options": [
+        {
+          "description": "IMPELLERS INDIVIDUALLY SECURED",
+          "selected": false,
+          "value": null
+        },
+        {
+          "description": "BOLT OH 3/4/5 PUMP TO PAD / FOUNDATION",
+          "selected": false,
+          "value": null
+        },
+        {
+          "description": "PROVIDE SOLEPLATE FOR OH 3/4/5 PUMPS",
+          "selected": false,
+          "value": null
+        }
+      ]
+    },
+    "rotor": {
+      "shaft_flexibility_index_sfi": {
+        "api_ref": "(9.1.1.3)",
+        "value": "N/A"
+      },
+      "first_critical_speed_wet": {
+        "note": "(Multi stage pumps only)",
+        "value": "N/A"
+      },
+      "component_balance_to_iso_1940_g1_0": null,
+      "shrink_fit_limited_movement_impellers": {
+        "api_ref": "(9.2.2.3)",
+        "value": null
+      }
+    },
+    "coupling": {
+      "api_ref": "(7.2.3)",
+      "other_ref": "(7.2.13.f)",
+      "note": "(Note M5)",
+      "manufacturer": {
+        "value": "JOHN CRANE METASTREAM",
+        "revision": "01"
+      },
+      "model": {
+        "value": "TSK 0300",
+        "revision": "01"
+      },
+      "rating_power_per_100_rpm": null,
+      "spacer_length": {
+        "value": 280,
+        "unit": "mm",
+        "revision": "01"
+      },
+      "service_factor_min": 1.5,
+      "rigid": "NO",
+      "coupling_with_hydraulic_fit": {
+        "api_ref": "(7.2.10)",
+        "value": null
+      },
+      "coupling_balanced_to_iso_1940_1_g6_3": {
+        "api_ref": "(7.2.3)",
+        "value": "YES"
+      },
+      "coupling_with_proprietary_clamping_device": {
+        "api_ref": "(7.2.11)",
+        "value": null
+      },
+      "coupling_in_compliance_with": {
+        "api_ref": "(7.2.4)",
+        "value": "API 610 compliant"
+      },
+      "coupling_guard_standard_per": {
+        "api_ref": "(7.2.13.a)",
+        "value": "ISO 14120"
+      },
+      "window_on_coupling_guard": null
+    },
+    "material": {
+      "api_ref": "(6.12.1.1)",
+      "appendix_h_class": "S-6",
+      "min_design_metal_temp": {
+        "api_ref": "(6.12.4.1)",
+        "value": 5,
+        "unit": "\u00b0C"
+      },
+      "reduced_hardness_materials_reqd": {
+        "api_ref": "(6.12.1.12.1)",
+        "value": "NO"
+      },
+      "applicable_hardness_standard": {
+        "api_ref": "(6.12.1.12.3)",
+        "value": "NA"
+      },
+      "barrel": "N/A",
+      "case": "ASTM A216 WCB",
+      "diffusers": "N/A",
+      "impeller": "ASTM A487 CA6NM",
+      "impeller_wear_ring": "AISI 420 HD 325_375",
+      "case_wear_ring": "AISI 420 HD 225_275",
+      "shaft": "4140 ALLOY STEEL",
+      "bowl_if_vs_type": "N/A",
+      "inspection_class": "Class 2"
+    },
+    "baseplate": {
+      "api_baseplate_number": "N/A",
+      "baseplate_construction": {
+        "api_ref": "(7.3.14)",
+        "value": "FULL TOP DECKING"
+      },
+      "baseplate_drainage": {
+        "api_ref": "(7.3.1)",
+        "value": "Entire Baseplate Drain Rim"
+      },
+      "mounting": "GROUTED",
+      "non_grout_construction": {
+        "api_ref": "(7.3.13)",
+        "value": "REQUIRED"
+      },
+      "vertical_leveling_screws": {
+        "value": "REQUIRED",
+        "revision": "01"
+      },
+      "longitudinal_driver_positioning_screws": "REQUIRED",
+      "supplied_with": [
+        {
+          "item": "GROUT AND VENT HOLES",
+          "selected": true,
+          "value": "YES"
+        },
+        {
+          "item": "DRAIN CONNECTION",
+          "selected": true,
+          "value": "YES"
+        }
+      ],
+      "mounting_pads_sized_for_baseplate_leveling": {
+        "api_ref": "(7.3.5)",
+        "value": "YES"
+      },
+      "mounting_pads_to_be_machined": {
+        "api_ref": "(7.3.6)",
+        "value": "YES"
+      },
+      "provide_spacer_plate_under_all_equipment_feet": "NO",
+      "other": null
+    },
+    "bearings_and_lubrication": {
+      "id": "M8",
+      "api_ref": "(6.10.1.1)",
+      "bearing_type_number": {
+        "api_ref": "(6.11.4)",
+        "radial": {
+          "type": "ROLLER",
+          "number": "NU 217",
+          "note": "Anti-friction"
+        },
+        "thrust": {
+          "type": "BALL",
+          "number": "7216 BECBJ"
+        }
+      },
+      "review_and_approve_thrust_bearing_size": {
+        "api_ref": "(9.2.5.2.4)",
+        "value": null
+      },
+      "lubrication": {
+        "api_refs": [
+          "(6.10.2.2)",
+          "(6.11.3)",
+          "(9.6.1)"
+        ],
+        "type": "PURE OIL MIST"
+      },
+      "pressure_lube_system_to_iso_10438": {
+        "api_ref": "(9.2.6.5)",
+        "iso_10438_data_sheets_attached": null,
+        "pressurized_lube_oil_system_mtd_on_pump_baseplate": null,
+        "location_of_pressurized_lube_oil_system_mounted_on_baseplate": null
+      },
+      "interconnecting_piping_provided_by": "Supplier",
+      "oil_visc_iso_grade": {
+        "grade_type": "VG",
+        "value": "VG68"
+      },
+      "constant_level_oiler": "NOT REQUIRED"
+    },
+    "remarks": [
+      "Epoxy to be used for baseplate grouting.",
+      "Baseplates shall not have to rely on grouting to achieve necessary rigidity."
+    ]
+  }
+}

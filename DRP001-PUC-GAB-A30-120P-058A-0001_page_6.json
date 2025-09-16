@@ -1,0 +1,135 @@
+{
+  "API_675": {
+    "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+    "job_no": "10121",
+    "item_no": "120P-058 A/B",
+    "purchase_order_no": "1012005090",
+    "specification_no": "DRP001-PUC-SPE-R-000-005",
+    "revision_no": "01",
+    "date": "20-Dec-2019",
+    "page_info": {
+      "current_page": 6,
+      "total_pages": 7
+    },
+    "by": "G.Buttolo",
+    "doc_number": "DRP001-PUC-GAB-A30-120P-58A-0001",
+    "pressure_vessel_design_code_references": {
+      "title": "PRESSURE VESSEL DESIGN CODE REFERENCES",
+      "note": "THESE REFERENCES MUST BE LISTED BY THE MANUFACTURER",
+      "items": [
+        {
+          "description": "CASTING FACTORS USED IN DESIGN ( TABLE 4)",
+          "value": "YES",
+          "rev": "Not found"
+        },
+        {
+          "description": "SOURCE OF MATERIAL PROPERTIES",
+          "value": "YES",
+          "rev": "Not found"
+        }
+      ]
+    },
+    "welding_and_repairs": {
+      "title": "WELDING AND REPAIRS",
+      "note": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER. (DEFAULT TO TABLE 10 IF NO PURCHASER PREFERENCE IS STATED)",
+      "items": [
+        {
+          "description": "ALTERNATE WELDING CODES AND STANDARDS",
+          "value": "YES",
+          "rev": "Not found"
+        },
+        {
+          "description": "WELDING REQUIREMENT (APPLICABLE CODE OR STANDARD)",
+          "value": "DRP001-PUC-SPE-W-000-006",
+          "rev": "Not found"
+        },
+        {
+          "description": "WELDER/OPERATOR QUALIFICATION",
+          "value": "TO INCLUDE IN WELDING DOSSIER",
+          "rev": "Not found"
+        },
+        {
+          "description": "WELDING PROCEDURE QUALIFICATION",
+          "value": "TO INCLUDE IN WELDING DOSSIER",
+          "rev": "Not found"
+        },
+        {
+          "description": "NON-PRESSURE RETAINING STRUCTURAL WELDING SUCH AS BASEPLATES OR SUPPORTS",
+          "value": "Not found",
+          "rev": "Not found"
+        },
+        {
+          "description": "MAGNETIC PARTICLE OR LIQUID PENETRANT EXAMINATION OF PLATE EDGES",
+          "value": "Not found",
+          "rev": "Not found"
+        },
+        {
+          "description": "POSTWELD HEAT TREATMENT",
+          "value": "Not found",
+          "rev": "Not found"
+        },
+        {
+          "description": "POSTWELD HEAT TREATMENT OF CASING FABRICATION WELDS",
+          "value": "Not found",
+          "rev": "Not found"
+        }
+      ]
+    },
+    "material_inspection": {
+      "title": "MATERIAL INSPECTION",
+      "note": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER",
+      "default_to_table_14": {
+        "value": "YES",
+        "rev": "Not found"
+      },
+      "alternative_material_inspections_and_acceptance_criteria": {
+        "note": "ALTERNATIVE MATERIAL INSPECTIONS AND ACCEPTANCE CRITERIA (SEE TABLE 14) (8.2.2.5)",
+        "inspections": [
+          {
+            "type_of_inspection": "RADIOGRAPHY",
+            "method": "Not found",
+            "for_fabrications": "Not found",
+            "for_castings": "Not found",
+            "rev": "Not found"
+          },
+          {
+            "type_of_inspection": "ULTRASONIC INSPECTION",
+            "method": "Not found",
+            "for_fabrications": "Not found",
+            "for_castings": "Not found",
+            "rev": "Not found"
+          },
+          {
+            "type_of_inspection": "MAGNETIC PARTICLE INSPECTION",
+            "method": "Not found",
+            "for_fabrications": "Not found",
+            "for_castings": "Not found",
+            "rev": "Not found"
+          },
+          {
+            "type_of_inspection": "LIQUID PENETRANT INSPECTION",
+            "method": "Not found",
+            "for_fabrications": "Not found",
+            "for_castings": "Not found",
+            "rev": "Not found"
+          },
+          {
+            "type_of_inspection": "VISUAL INSPECTION (all surfaces)",
+            "method": "Not found",
+            "for_fabrications": "Not found",
+            "for_castings": "Not found",
+            "rev": "Not found"
+          }
+        ]
+      }
+    },
+    "remarks": {
+      "title": "REMARKS:",
+      "notes": [
+        "In addition to NACE MR103, project specification DRP001-PUC-SPE-W-000-003 MATERIAL REQUIREMENTS FOR WET H2S SERVICE shall be followed.",
+        "In addition to Table 14 for pressure casing material inspection requirements, Project specifications DRP001-PUC-SPE-R-000-005 Centrifugal Pumps shall be followed.",
+        "Project specification DRP001-PUC-SPE-W-000-005 MATERIAL REQUIREMENTS FOR ALKALINE SERVICE shall be followed."
+      ]
+    }
+  }
+}

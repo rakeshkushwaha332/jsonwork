@@ -1,0 +1,75 @@
+{
+  "API_675": {
+    "document_header": {
+      "client_logo": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645\nDUQM REFINERY",
+      "project_name": "Duqm Refinery Project EPC Package One",
+      "contractor_logos": [
+        {
+          "name": "TECNICAS REUNIDAS",
+          "logo_present": true
+        },
+        {
+          "name": "DAEWOO E&C",
+          "logo_present": true
+        }
+      ]
+    },
+    "project_details": {
+      "project_no": "10121",
+      "unit": "120-HCU",
+      "purchase_order_number_rfp": "1012005090",
+      "equipment": "120P-061A/B"
+    },
+    "review_response_by_purchaser": {
+      "notes": "Purchaser review and comments do not indicate either responsibility or liability for accuracy and completeness of this document or alter any contractual terms and conditions:",
+      "options": [
+        {
+          "text": "REJECTED. NOT ACCEPTED",
+          "selected": false
+        },
+        {
+          "text": "REVIEWED WITH COMMENTS",
+          "selected": false
+        },
+        {
+          "text": "REVIEWED WITHOUT COMMENTS",
+          "selected": true
+        },
+        {
+          "text": "COMMENTS AS NOTED",
+          "selected": false
+        },
+        {
+          "text": "REVIEWED AS BUILT",
+          "selected": false
+        },
+        {
+          "text": "FOR INFORMATION",
+          "selected": false
+        },
+        {
+          "text": "VOID",
+          "selected": false
+        }
+      ],
+      "date": "15/03/2021"
+    },
+    "document_identification": {
+      "vendor_identification": {
+        "vendor_name": "TRILLIUM GASSIONETA PUMPS",
+        "vendor_code": "PDS"
+      },
+      "document_title": "Pump Data Sheet",
+      "vendor_document_no": {
+        "number": "086135_PDS",
+        "rev": "2",
+        "code": "HDD-0001"
+      },
+      "contractor_document_no": {
+        "number": "DRP001-PUC-GAB-A30-120P-061A-0001",
+        "rev": "2",
+        "document_class": "2"
+      }
+    }
+  }
+}

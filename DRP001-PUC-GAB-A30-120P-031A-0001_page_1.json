@@ -1,0 +1,61 @@
+{
+  "API_675": {
+    "company_logos": [
+      {
+        "name": "DUQM REFINERY",
+        "arabic_name": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645"
+      },
+      {
+        "name": "TECNICAS REUNIDAS",
+        "value": "not found"
+      },
+      {
+        "name": "DAEWOO E&C",
+        "value": "not found"
+      }
+    ],
+    "project_title_header": "DUQM Refinery Project",
+    "package_info": "Package 1",
+    "contract_details": {
+      "contract_no": "CNT-1100-1000-006",
+      "drpic_contract_no": "not found",
+      "client_name": "Duqm Refinery & Petrochemical Industries Company LLC",
+      "project_title": "Duqm Refinery Project",
+      "project_location": "Duqm, Oman",
+      "rev_status": "not found",
+      "document_category": "Class 2",
+      "critically_rating": "CR-2"
+    },
+    "document_content_title": {
+      "main_title": "LPG SETTLER WATER CIRCULATION PUMPS",
+      "subtitle_1": "HYDROCRAKER UNIT - HCU",
+      "subtitle_2": "120P-031 A/B"
+    },
+    "revision_history": [
+      {
+        "rev": "01",
+        "date": "20/12/19",
+        "issue": "Issued for approval",
+        "prepared_by": "G.Buttolo",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Gentile"
+      },
+      {
+        "rev": "00",
+        "date": "25-Jun-19",
+        "issue": "First issue",
+        "prepared_by": "A. Filice",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Gentile"
+      }
+    ],
+    "document_footer": {
+      "document_title": "MECHANICAL DATA SHEET - LPG SETTLER WATER CIRCULATION PUMPS - 120P-031 A/B",
+      "document_number": "DRP001-PUC-GAB-A30-120P-031A-0001",
+      "page": "1",
+      "of_pages": "7",
+      "revision": "01"
+    },
+    "confidentiality_notice": "This document is property of Duqm Refinery and Petrochemical Industries Company. Its reproduction without previous permission in writing is strictly forbidden."
+  }
+}

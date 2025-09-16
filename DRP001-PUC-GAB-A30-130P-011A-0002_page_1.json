@@ -1,0 +1,63 @@
+{
+  "API_675": {
+    "document_header": {
+      "company_logos": [
+        {
+          "company_name": "DUQM REFINERY",
+          "logo_text": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645"
+        },
+        {
+          "company_name": "TECNICAS REUNIDAS",
+          "logo_text": null
+        },
+        {
+          "company_name": "DAEWOO E&C",
+          "logo_text": null
+        }
+      ],
+      "project_name": "DUQM Refinery Project",
+      "package_number": "Package 1"
+    },
+    "document_metadata": {
+      "Contract_N\u00b0": "CNT-1100-1000-006",
+      "DRPIC_Contract_N\u00b0": "not found",
+      "Client's_Name": "Duqm Refinery & Petrochemical Industries Company LLC",
+      "Project_Title": "Duqm Refinery Project",
+      "REV_Status": "not found",
+      "Project_Location": "Duqm, Oman",
+      "Document_Category": "Class 2",
+      "Critically_rating": "CR-2"
+    },
+    "document_content": {
+      "title": "BLOWDOWN CIRCULATING OIL PUMPS",
+      "unit_details": "DELAYED COKER UNIT - DCU",
+      "equipment_tag": "130P-011 A/B/C"
+    },
+    "revision_history": [
+      {
+        "REV": "1",
+        "DATE": "09/01/20",
+        "ISSUE": "Issued for Approval",
+        "PREPARED_BY": "G.Buttolo",
+        "CHECKED_BY": "A. Filice",
+        "APPROVED_BY": "A. filice"
+      },
+      {
+        "REV": "0",
+        "DATE": "06-Dec-2019",
+        "ISSUE": "Issued for Approval",
+        "PREPARED_BY": "MG Lettieri",
+        "CHECKED_BY": "A. Filice",
+        "APPROVED_BY": "A. filice"
+      }
+    ],
+    "document_footer": {
+      "DOCUMENT_TITLE": "MECHANICAL DATA SHEET - BLOWDOWN CIRCULATING OIL PUMPS - 130P-011 A/B/C",
+      "DOCUMENT_NUMBER": "DRP001-PUC-GAB-A30-130P-011A-0002",
+      "PAGE": "1",
+      "OF": "8",
+      "REVISION": "1"
+    },
+    "disclaimer": "\"This document is property of Duqm Refinery and Petrochemical Industries Company. Its reproduction without a written permission is strictly forbidden.\""
+  }
+}

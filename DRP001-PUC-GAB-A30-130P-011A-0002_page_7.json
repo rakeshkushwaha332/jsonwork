@@ -1,0 +1,288 @@
+{
+  "API_675": {
+    "header": {
+      "company_logos": [
+        {
+          "name": "DUQM REFINERY",
+          "text": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645"
+        },
+        {
+          "name": "TECNICAS REUNIDAS",
+          "text": null
+        },
+        {
+          "name": "DAEWOO E&C",
+          "text": null
+        }
+      ],
+      "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+      "document_subtitle": "NOTES",
+      "job_no": "10121",
+      "item_no": "130P-011 A/B/C",
+      "purchase_order_no": "10120050",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "1",
+      "date": "09-gen-20",
+      "page": {
+        "current": 7,
+        "total": 8
+      },
+      "by": "G. Buttolo",
+      "doc_number": "DRP001-PUC-GAB-A30-130P-011A-0002"
+    },
+    "notes": {
+      "process_notes": [
+        {
+          "index": 2,
+          "note_id": "P1",
+          "description": "See Project Design Data, document no. DRP001-PUC-SPE-U-000-002 latest revision, for site conditions, meteorological data and available utilities.",
+          "revision": null
+        },
+        {
+          "index": 3,
+          "note_id": "P2",
+          "description": "NPSH Datum is pump centerline at 1.15 m above grade.\nNPSHA does not include any margin. The available NPSH shall exceed the NPSHr by 1.0 m at pump rated capacity.\nThe available NPSH shall exceed the NPSHr by 1.0 m at pump rated capacity. The NPSHr shall be lower than the NPSHA by at least 0.5 m over the full operating range of the pump as defined below up to 125% of rated flow. NPSHA@125% = 2.8 m.",
+          "revision": "01"
+        },
+        {
+          "index": 4,
+          "note_id": "P3",
+          "description": "Parallel pump operation: at the intersection of one pump opearting and the system curve. NPSHA of one pump opearting without any margyn:",
+          "details": [
+            {
+              "condition": "NPSHa @ 100% flow of one pump operating (50% of total Flow)",
+              "value": "5.17 m"
+            },
+            {
+              "condition": "NPSHa @ 120% flow of one pump operating (60% of total Flow)",
+              "value": "6.87 m"
+            },
+            {
+              "condition": "NPSHa @ 140% flow of one pump operating (70% of total Flow)",
+              "value": "5.97 m"
+            },
+            {
+              "condition": "NPSHa @ 160% flow of one pump operating (80% of total Flow)",
+              "value": "4.97 m"
+            },
+            {
+              "condition": "NPSHa @ 180% flow of one pump operating (90% of total Flow)",
+              "value": "3.77 m"
+            }
+          ],
+          "revision": null
+        },
+        {
+          "index": 5,
+          "note_id": "P4",
+          "description": "Two pump are working and one pump is standby.",
+          "revision": null
+        },
+        {
+          "index": 6,
+          "note_id": "P5",
+          "description": "Deleted",
+          "revision": null
+        },
+        {
+          "index": [
+            6,
+            7
+          ],
+          "note_id": "P6",
+          "description": "Refer to Project Design Data DRP001-FED-SPE-U-000-002 latest revision for cooling water conditions. According to this document, cooling water conditions are the following:",
+          "cooling_water_supply_inlet": {
+            "pressure_at_grade_level": {
+              "label": "Min/Normal/Max/Design",
+              "value": "4.5/5.5/6.5/13.0",
+              "unit": "kg/cm2(g)"
+            },
+            "temperature": {
+              "label": "Normal/Design",
+              "value": "33 / 85",
+              "unit": "\u00b0C"
+            },
+            "design_ug": {
+              "value": "60",
+              "unit": "\u00b0C"
+            }
+          },
+          "cooling_water_return_outlet": {
+            "pressure_at_grade_level": {
+              "label": "Min/Normal/Max/Design",
+              "value": "3.0/3.5/4.5/13.0",
+              "unit": "kg/cm2(g)"
+            },
+            "temperature": {
+              "label": "Normal/Design",
+              "value": "43 / 85",
+              "unit": "\u00b0C"
+            },
+            "design_ug": {
+              "value": "60",
+              "unit": "\u00b0C"
+            }
+          },
+          "other_requirements": {
+            "cooling_water_delta_t": "10 \u00b0C",
+            "delta_t_note": "vendor has to adjust to this delta",
+            "max_pressure_drop_package": "0.5 kg/cm2g (referred to grade level)"
+          },
+          "expected_consumption_cooling_water": "2.5 m3/h for each pump.",
+          "revision": null
+        },
+        {
+          "index": 8,
+          "note_id": "P7",
+          "description": "Minimum flow corresponds to turndown operation: 50% of normal flowrate of start of steaming opearting case.",
+          "revision": null
+        },
+        {
+          "index": 9,
+          "note_id": "P8",
+          "description": "Pumped liquid contains the following constituents. Refer to DRP001-PUC-RPT-W-000-001 latest revision.",
+          "constituents": {
+            "Benzene": "574 wppm",
+            "NH3": "2.66 wppm",
+            "Butadiene": "6.4 wppm",
+            "Total Sulphur": "49400 wppm",
+            "TAN": "0.38"
+          },
+          "revision": null
+        },
+        {
+          "index": 10,
+          "note_id": "P9",
+          "description": "Pump is in light hydrocarbon service",
+          "revision": null
+        },
+        {
+          "index": 11,
+          "note_id": "P10",
+          "description": "Corrosion / Erosion due to Sulfur, Coke Fines",
+          "revision": null
+        },
+        {
+          "index": 12,
+          "note_id": "P11",
+          "description": "Pump to handle a maximum particle size of 3mm based on suction strainer particle size rejection. Vendor to review pump impeller selection versus strainer hole size.",
+          "revision": null
+        },
+        {
+          "index": 13,
+          "note_id": "P12",
+          "description": "Pour Point = 38\u00b0C",
+          "revision": null
+        },
+        {
+          "index": 14,
+          "note_id": "P13",
+          "description": "All pumps shall have identical head curves, rising to shut-off, and be suitable for parallel operation",
+          "revision": null
+        },
+        {
+          "index": 15,
+          "note_id": "P14",
+          "description": "Stand by pump warm up is planned with bypass to keep downstream line flowing.",
+          "revision": null
+        },
+        {
+          "index": 16,
+          "note_id": "P15",
+          "description": "Pump jacket required. Heating jacket shall be insulated with heat conservation above covering the whole pump case, volute and nozzle surface are, same as pipe lines into pump skid handling process fluid (drain, vents, warm up and seal flushing pipes, etc). Jacket Objective Temperature 150\u00b0C. Minimum required maintenance temperature: 150\u00b0C. Steam Jacket shall consume Medium Pressure Steam.",
+          "revision": null
+        },
+        {
+          "index": 17,
+          "note_id": "P16",
+          "description": "Pump shall be designed to operate in following conditions:",
+          "operating_conditions": [
+            {
+              "case": 1,
+              "fluid": "Wax Tailings, LCGO",
+              "sp_gr": "0.884",
+              "viscosity": "1.55 cP",
+              "temperature": "149 \u00b0C",
+              "flow_m3_h": {
+                "rated": "223.9",
+                "normal": "186.6",
+                "min": "93.3"
+              },
+              "differential_head": "134.55 m",
+              "npsha": "5.8 m",
+              "suction_pressure": {
+                "rated": "1.21 kg/cm\u00b2g",
+                "max": "4.82 kg/cm\u00b2g"
+              }
+            },
+            {
+              "case": 2,
+              "fluid": "Wax Tailings, LCGO, Coke Condensate",
+              "sp_gr": "0.849",
+              "viscosity": "0.71 cP",
+              "temperature": "238 \u00b0C",
+              "flow_m3_h": {
+                "rated": "267.1",
+                "normal": "222.6",
+                "min": "93.3"
+              },
+              "differential_head": "140.48 m",
+              "npsha": "5.1 m",
+              "suction_pressure": {
+                "rated": "1.13 kg/cm\u00b2g",
+                "max": "4.77 kg/cm\u00b2g"
+              }
+            }
+          ],
+          "revision": null
+        }
+      ],
+      "mechanical_notes": [
+        {
+          "index": 19,
+          "note_id": "M1",
+          "description": "In accordance with DRP001-PUC-SPE-M-000-007 - work area limit code for train is G1 - 85 dBA @ 1 m for complete train.",
+          "revision": null
+        },
+        {
+          "index": 20,
+          "note_id": "M2",
+          "details": {
+            "max_discharge_pressure": {
+              "value": "20.5",
+              "unit": "kg/cm2g"
+            },
+            "conditions": {
+              "max_specific_gravity": "0.884",
+              "max_suction_pressure": "4.68 kg/cm2g",
+              "shut_off_differential_head": "170 m",
+              "head_increase": "5%",
+              "note": "by increasing impeller according project requirement, and not including API 610 test tolerances"
+            },
+            "system_design_pressure": {
+              "pressure": "22 kg/cm2g",
+              "temperature": "315\u00b0C"
+            }
+          },
+          "description": "Pump Max. discharge pressure is 20.5 kg/cm2g considering max. specific gravity (0.884), max. suction pressure of 4.68 kg/cm2g and shut-off differential head of 170 m and 5% head increase by increasing impeller according project requirement, and not including API 610 test tolerances. System design pressure is 22 kg/cm2g @ 315\u00b0C.",
+          "revision": null
+        },
+        {
+          "index": 21,
+          "note_id": "M3",
+          "description": "Mechanical shaft seals must be according API 682 4 th edition and DRP001-PUC-SPE-R-000-015. Selection for flushing & auxiliary system components (valves, instruments, pipe schedule, flange ratings, etc) in accordance with pump MAWP at design temperature (refer to API 682 sec. 8.1.4). Refer to mechanical seal data sheet with selection 23A-PI(P/N)-080-32/53B.",
+          "revision": null
+        }
+      ]
+    },
+    "revision_column": {
+      "title": "Revision",
+      "revisions": [
+        {
+          "row_index": 3,
+          "rev_code": "01"
+        }
+      ]
+    }
+  }
+}

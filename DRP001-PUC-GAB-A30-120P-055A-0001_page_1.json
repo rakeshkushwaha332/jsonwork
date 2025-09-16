@@ -1,0 +1,68 @@
+{
+  "API_675": {
+    "project_name": "DUQM Refinery Project",
+    "package_number": "Package 1",
+    "contract_details": {
+      "contract_no": "CNT-1100-1000-006",
+      "drpic_contract_no": "Not Found",
+      "client_name": "Duqm Refinery & Petrochemical Industries Company LLC",
+      "project_title": "Duqm Refinery Project",
+      "project_location": "Duqm, Oman",
+      "rev_status": "Not Found",
+      "document_category": "Class 2",
+      "critically_rating": "CR-1"
+    },
+    "document_main_title": "1st STAGE FURNACE HP BFW CIRCULATION PUMPS",
+    "document_subtitle": "HYDROCRAKER UNIT - HCU",
+    "equipment_tag": "120P-055 A/B",
+    "revision_history": [
+      {
+        "rev": "04",
+        "date": "19/03/2021",
+        "issue": "Issued for Approval",
+        "prepared_by": "S. Rossetti",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Filice"
+      },
+      {
+        "rev": "03",
+        "date": "25-feb-21",
+        "issue": "Issued for Approval",
+        "prepared_by": "S. Rossetti",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Filice"
+      },
+      {
+        "rev": "02",
+        "date": "6-Jul-2020",
+        "issue": "Issued for Approval",
+        "prepared_by": "MG. Lettieri",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Filice"
+      },
+      {
+        "rev": "01",
+        "date": "20-Dec-19",
+        "issue": "Issued for Approval",
+        "prepared_by": "G.Buttolo",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Filice"
+      },
+      {
+        "rev": "00",
+        "date": "9-Jul-19",
+        "issue": "Issued for Approval",
+        "prepared_by": "MG. Lettieri",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Filice"
+      }
+    ],
+    "document_footer": {
+      "document_title": "MECHANICAL DATA SHEET - 1st STAGE FURNACE HP BFW CIRCULATION PUMPS - 120P-055 A/B",
+      "document_number": "DRP001-PUC-GAB-A30-120P-055A-0001",
+      "page": "1",
+      "of_pages": "7",
+      "revision": "04"
+    }
+  }
+}

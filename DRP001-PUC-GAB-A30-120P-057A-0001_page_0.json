@@ -1,0 +1,57 @@
+{
+  "API_675": {
+    "document_header": {
+      "client_name": "DUQM REFINERY",
+      "client_logo_text": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645",
+      "contractors": [
+        {
+          "name": "TECNICAS REUNIDAS",
+          "logo_text": "t\u016b"
+        },
+        {
+          "name": "DAEWOO E&C",
+          "logo_text": "D"
+        }
+      ],
+      "document_main_title": "Duqm Refinery Project EPC Package One"
+    },
+    "project_information": {
+      "project_no": "10121",
+      "purchase_order_number_rfp": "1012005090",
+      "unit": "HYDROCRACKER (HCU)",
+      "equipment": "120P-057A/B"
+    },
+    "review_response_by_purchaser": {
+      "review_note": "Purchaser review and comments do not indicate either responsibility or liability for accuracy and completeness of this document or alter any contractual terms and conditions:",
+      "statuses": {
+        "rejected_not_accepted": false,
+        "reviewed_with_comments": false,
+        "reviewed_without_comments": true,
+        "comments_as_noted": false,
+        "reviewed_as_built": false,
+        "for_information": false,
+        "void": false
+      },
+      "date": "11/02/2020"
+    },
+    "vendor_identification": {
+      "vendor_name": "TRILLIUM GABBIONETA PUMPS",
+      "other_details": "PDS"
+    },
+    "document_details": {
+      "document_title": "Pump Data Sheet",
+      "vendor_document": {
+        "number": "086104_PDS",
+        "revision": "1",
+        "code": "HDD-0001",
+        "document_class": null
+      },
+      "contractor_document": {
+        "number": "DRP001-PUC-GAB-A30-120P-057A-0001",
+        "revision": "1",
+        "code": null,
+        "document_class": "2"
+      }
+    }
+  }
+}

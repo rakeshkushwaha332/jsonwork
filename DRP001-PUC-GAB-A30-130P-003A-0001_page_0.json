@@ -1,0 +1,47 @@
+{
+  "API_675": {
+    "header_information": {
+      "client_logo_text": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645 DUQM REFINERY",
+      "project_title_1": "Duqm Refinery Project EPC Package One",
+      "contractor_logos_text": [
+        "TECNICAS REUNIDAS",
+        "DAEWOO E&C"
+      ]
+    },
+    "main_content": {
+      "project_title_2": "Duqm Refinery Project EPC Package One",
+      "project_no": "10121",
+      "unit": "DELAYED COKER UNIT (DCU)",
+      "purchase_order_number_rfp": "1012005090",
+      "equipment": "130P-003A/B",
+      "review_response_by_purchaser": {
+        "note": "Purchaser review and comments do not indicate either responsibility or liability for accuracy and completeness of this document or alter any contractual terms and conditions:",
+        "options": {
+          "rejected_not_accepted": false,
+          "comments_as_noted": false,
+          "void": false,
+          "reviewed_with_comments": false,
+          "reviewed_as_built": false,
+          "reviewed_without_comments": true,
+          "for_information": false
+        },
+        "date": "11/02/2020"
+      },
+      "vendor_identification": {
+        "name": "TRILLIUM GABBIONETA PUMPS",
+        "details": "PDS"
+      },
+      "document_title": "Pump Data Sheet",
+      "vendor_document_info": {
+        "vendor_document_no": "086106_PDS",
+        "rev": "1",
+        "code": "HDD-0001"
+      },
+      "contractor_document_info": {
+        "contractor_document_no": "DRP001-PUC-GAB-A30-130P-003A-0001",
+        "rev": "1",
+        "document_class": "2"
+      }
+    }
+  }
+}

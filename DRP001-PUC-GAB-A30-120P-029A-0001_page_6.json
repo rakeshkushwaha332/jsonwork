@@ -1,0 +1,125 @@
+{
+  "API_675": {
+    "document_metadata": {
+      "companies": [
+        {
+          "name": "DUQM REFINERY",
+          "logo_text": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645"
+        },
+        {
+          "name": "TECNICAS REUNIDAS"
+        },
+        {
+          "name": "DAEWOO E&C"
+        }
+      ],
+      "document_title": "CENTRIFUGAL PUMPS",
+      "document_subtitle": "API 610 11TH EDITION DATA SHEET SI UNITS",
+      "job_no": "10121",
+      "item_no": "120P-029 A/B",
+      "purchase_order_no": "1012005090",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "01",
+      "date": "20/12/19",
+      "page": "6 OF 7",
+      "by": "G.Buttolo",
+      "doc_number": "DRP001-PUC-GAB-A30-120P-029A-0001",
+      "revision_info": {
+        "header": "Revision",
+        "rev": "not found"
+      }
+    },
+    "pressure_vessel_design_code_references": {
+      "note": "THESE REFERENCES MUST BE LISTED BY THE MANUFACTURER",
+      "references": [
+        {
+          "item": "CASTING FACTORS USED IN DESIGN ( TABLE 4)",
+          "value": "YES"
+        },
+        {
+          "item": "SOURCE OF MATERIAL PROPERTIES",
+          "value": "YES"
+        }
+      ]
+    },
+    "welding_and_repairs": {
+      "note": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER. (DEFAULT TO TABLE 10 IF NO PURCHASER PREFERENCE IS STATED)",
+      "items": [
+        {
+          "item": "ALTERNATE WELDING CODES AND STANDARDS",
+          "value": "YES"
+        },
+        {
+          "item": "WELDING REQUIREMENT (APPLICABLE CODE OR STANDARD)",
+          "value": "DRP001-PUC-SPE-W-000-006"
+        },
+        {
+          "item": "WELDER/OPERATOR QUALIFICATION",
+          "value": "TO INCLUDE IN WELDING DOSSIER"
+        },
+        {
+          "item": "WELDING PROCEDURE QUALIFICATION",
+          "value": "TO INCLUDE IN WELDING DOSSIER"
+        },
+        {
+          "item": "NON-PRESSURE RETAINING STRUCTURAL WELDING SUCH AS BASEPLATES OR SUPPORTS",
+          "value": "not found"
+        },
+        {
+          "item": "MAGNETIC PARTICLE OR LIQUID PENETRANT EXAMINATION OF PLATE EDGES",
+          "value": "not found"
+        },
+        {
+          "item": "POSTWELD HEAT TREATMENT",
+          "value": "not found"
+        },
+        {
+          "item": "POSTWELD HEAT TREATMENT OF CASING FABRICATION WELDS",
+          "value": "not found"
+        }
+      ]
+    },
+    "material_inspection": {
+      "note": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER",
+      "default_to_table_14": "YES",
+      "alternative_inspections_note": "ALTERNATIVE MATERIAL INSPECTIONS AND ACCEPTANCE CRITERIA (SEE TABLE 14) (8.2.2.5)",
+      "inspection_table": [
+        {
+          "type_of_inspection": "RADIOGRAPHY",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "ULTRASONIC INSPECTION",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "MAGNETIC PARTICLE INSPECTION",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "LIQUID PENETRANT INSPECTION",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        },
+        {
+          "type_of_inspection": "VISUAL INSPECTION (all surfaces)",
+          "method": "not found",
+          "for_fabrications": "not found",
+          "for_castings": "not found"
+        }
+      ]
+    },
+    "remarks": [
+      "In addition to NACE MR103, project specification DRP001-PUC-SPE-W-000-003 MATERIAL REQUIREMENTS FOR WET H2S SERVICE shall be followed.",
+      "In addition to Table 14 for pressure casing material inspection requirements, Project specifications DRP001-PUC-SPE-R-000-005 Centrifugal Pumps shall be followed.",
+      "Project specification DRP001-PUC-SPE-W-000-005 MATERIAL REQUIREMENTS FOR AMINE SERVICE shall be followed."
+    ]
+  }
+}

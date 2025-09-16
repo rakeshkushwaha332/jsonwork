@@ -1,0 +1,469 @@
+{
+  "API_675": {
+    "documentTitle": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+    "companyLogos": [
+      "DUQM REFINERY",
+      "TECNICAS REUNIDAS",
+      "DAEWOO E&C"
+    ],
+    "jobInfo": {
+      "jobNumber": "10121",
+      "itemNumber": "120P-057 A/B",
+      "purchaseOrderNumber": "1012005090",
+      "specificationNumber": "DRP001-PUC-SPE-R-000-005",
+      "revisionNumber": "01",
+      "revisionDate": "20-Dec-2019",
+      "page": "2",
+      "ofPages": "7",
+      "by": "G.Buttolo",
+      "documentNumber": "DRP001-PUC-GAB-A30-120P-057A-0001"
+    },
+    "revisions": [
+      {
+        "rev": null,
+        "details": null
+      }
+    ],
+    "generalInfo": {
+      "applicableTo": {
+        "purchase": true,
+        "other": "not found"
+      },
+      "for": "DUQM REFINERY PROJECT",
+      "site": "DUQM, OMAN",
+      "applicableStandard": "API-610",
+      "unit": "HYDROCRAKER UNIT - HCU",
+      "service": "ACTIONATOR FEED FURNACE HP BFW CIRCULATION PUN",
+      "numberRequired": "2 (1+1)",
+      "pumpSize": "300/150",
+      "manufacturer": "GABBIONETA srl",
+      "type": "OH2",
+      "numberOfStages": 1,
+      "model": "R300/150",
+      "serialNumber": "086104"
+    },
+    "liquidCharacteristics": {
+      "liquidTypeOrName": "HP BFW",
+      "vaporPressure": {
+        "value": "45,7",
+        "units": "kgcm2a"
+      },
+      "relativeDensity": {
+        "value": "0,793",
+        "units": null
+      },
+      "specificHeat": {
+        "value": "not found",
+        "units": "kcal/(kg\u00b0C)"
+      },
+      "viscosity": {
+        "value": "0,1",
+        "units": "cP"
+      },
+      "note": "Max & min values refer only to the property listed"
+    },
+    "serviceCategory": {
+      "service": "CONTINUOUS",
+      "pumpsOperateIn": "SINGLE",
+      "corrosionDueTo": "not found",
+      "erosionDueTo": "not found",
+      "h2sConcentration": {
+        "value": "not found",
+        "units": "ppm"
+      },
+      "chlorideConcentration": {
+        "value": "not found",
+        "units": "ppm"
+      },
+      "particulateSize": {
+        "value": "not found",
+        "units": "DIA IN MICRONS"
+      },
+      "particulateConcentration": {
+        "value": "not found",
+        "units": "PPM"
+      },
+      "flammable": "NO",
+      "hazardous": "NO",
+      "toxic": "NO",
+      "systemDesignTemperature": {
+        "value": 290,
+        "units": "\u00b0C"
+      },
+      "systemDesignPressure": {
+        "value": 62.6,
+        "units": "kg/cm2g"
+      }
+    },
+    "operatingConditions": {
+      "reference": "6.1.2",
+      "npshaDatum": "C.L. Impeller",
+      "conditions": [
+        {
+          "parameter": "PUMPING TEMPERATURE",
+          "units": "\u00b0C",
+          "maximum": "257",
+          "rated": "257",
+          "normal": "not found",
+          "minimum": "not found"
+        },
+        {
+          "parameter": "FLOW",
+          "units": "m3/h",
+          "maximum": "not found",
+          "rated": "302,6",
+          "normal": "222,1",
+          "minimum": "not found"
+        },
+        {
+          "parameter": "DISCHARGE PRESSURE",
+          "reference": "6.3.2",
+          "units": "kg/cm2g",
+          "maximum": "not found",
+          "rated": "51,89",
+          "normal": "not found",
+          "minimum": "not found"
+        },
+        {
+          "parameter": "SUCTION PRESSURE",
+          "units": "kg/cm2g",
+          "maximum": "52,92",
+          "rated": "45,42",
+          "normal": "not found",
+          "minimum": "not found"
+        },
+        {
+          "parameter": "DIFFERENTIAL PRESSURE",
+          "units": "kg/cm2",
+          "maximum": "not found",
+          "rated": "6,46",
+          "normal": "not found",
+          "minimum": "not found"
+        },
+        {
+          "parameter": "DIFFERENTIAL HEAD",
+          "units": "m",
+          "maximum": "not found",
+          "rated": "81,5",
+          "normal": "not found",
+          "minimum": "not found"
+        },
+        {
+          "parameter": "NPSHA",
+          "units": "m",
+          "maximum": "not found",
+          "rated": "9,3",
+          "normal": "not found",
+          "minimum": "not found"
+        },
+        {
+          "parameter": "HYDRAULIC POWER",
+          "units": "kW",
+          "maximum": "not found",
+          "rated": "53,29",
+          "normal": "not found",
+          "minimum": "not found"
+        }
+      ]
+    },
+    "siteAndUtilityData": {
+      "location": {
+        "outdoor": true,
+        "unheated": true,
+        "unsheltered": true
+      },
+      "mountedAt": {
+        "grade": true,
+        "other": "not found"
+      },
+      "tropicalisationRequired": true,
+      "electricAreaClassification": {
+        "reference": "6.1.22",
+        "group": "IIA/IIB",
+        "zone": "2",
+        "tempClass": "T3"
+      },
+      "siteData": {
+        "elevationMsl": {
+          "value": "17,000",
+          "units": "m"
+        },
+        "barometer": {
+          "value": "760",
+          "units": "mmHg"
+        },
+        "rangeOfAmbientTemps": {
+          "min": {
+            "value": 5,
+            "units": "\u00b0C"
+          },
+          "max": {
+            "value": 49,
+            "units": "\u00b0C"
+          }
+        },
+        "relativeHumidity": {
+          "min": {
+            "value": 4,
+            "units": "%"
+          },
+          "max": {
+            "value": 100,
+            "units": "%"
+          }
+        },
+        "unusualConditions": "not found"
+      },
+      "coolingWater": {
+        "temperature": {
+          "inlet_min_norm_max": {
+            "value": 33,
+            "units": "\u00b0C"
+          },
+          "return": {
+            "value": 43,
+            "units": "\u00b0C"
+          },
+          "design": {
+            "value": 85,
+            "units": "\u00b0C"
+          }
+        },
+        "pressure": {
+          "inlet_min_norm_max": {
+            "value": "4,5/5,5/6,5",
+            "units": "kg/cm2g"
+          },
+          "min": {
+            "value": "3/3,5/4,5",
+            "units": "kg/cm2g"
+          },
+          "design": {
+            "value": 13,
+            "units": "kg/cm2g"
+          }
+        },
+        "source": "Cooling tower",
+        "chlorideConcentration": {
+          "value": 400,
+          "units": "ppm"
+        }
+      },
+      "instrumentAir": {
+        "max": {
+          "value": 7.5,
+          "units": "kg/cm2g"
+        },
+        "min": {
+          "value": 5,
+          "units": "kg/cm2g"
+        }
+      },
+      "steam": {
+        "drivers": {
+          "temperature": {
+            "max": "not found",
+            "norm": "not found",
+            "min": "not found"
+          },
+          "pressure": {
+            "max": "not found",
+            "norm": "not found",
+            "min": "not found"
+          }
+        },
+        "heating": {
+          "temperature": {
+            "max": {
+              "value": 200,
+              "units": "\u00b0C"
+            },
+            "norm": {
+              "value": 180,
+              "units": "\u00b0C"
+            },
+            "min": {
+              "value": "sat",
+              "units": "\u00b0C"
+            }
+          },
+          "pressure": {
+            "max": {
+              "value": 5,
+              "units": "kg/cm2g"
+            },
+            "norm": {
+              "value": 3.5,
+              "units": "kg/cm2g"
+            },
+            "min": {
+              "value": 3,
+              "units": "kg/cm2g"
+            }
+          }
+        }
+      },
+      "utilityConditions": {
+        "electricity": {
+          "drivers": {
+            "voltage": "415",
+            "phase": "3",
+            "hertz": "50"
+          },
+          "heating": {
+            "voltage": "415",
+            "phase": "3",
+            "hertz": "50"
+          },
+          "control": {
+            "voltage": "240",
+            "phase": "1",
+            "hertz": "50"
+          },
+          "shutdown": {
+            "voltage": "not found",
+            "phase": "not found",
+            "hertz": "not found"
+          }
+        }
+      }
+    },
+    "performance": {
+      "proposalCurveNo": "086104_PPC",
+      "rpm": 2975,
+      "asTestedCurveNo": "not found",
+      "impellerDiameter": {
+        "rated": {
+          "value": 267,
+          "units": "mm"
+        },
+        "max": {
+          "value": 299,
+          "units": "mm"
+        },
+        "min": {
+          "value": 250,
+          "units": "mm"
+        }
+      },
+      "ratedPower": {
+        "value": 71.66,
+        "units": "kW"
+      },
+      "efficiency": {
+        "value": 74.35,
+        "units": "%"
+      },
+      "ratedCurveBepFlow": {
+        "value": 377.1,
+        "units": "m\u00b3/h"
+      },
+      "minFlow": {
+        "thermal": {
+          "value": "not found",
+          "units": "m\u00b3/h"
+        },
+        "stable": {
+          "value": 87.44,
+          "units": "m\u00b3/h"
+        }
+      },
+      "preferredOperatingRegion": {
+        "reference": "6.1.11",
+        "from": "263,97",
+        "to": "422,1",
+        "units": "m\u00b3/h"
+      },
+      "allowableOperatingRegion": {
+        "from": "87.44",
+        "to": "422,1",
+        "units": "m\u00b3/h"
+      },
+      "maxHeadAtRatedImpeller": {
+        "value": 95.3,
+        "units": "m"
+      },
+      "maxPowerAtRatedImpeller": {
+        "reference": "6.8.9",
+        "value": 82.06,
+        "units": "kW"
+      },
+      "npsh3AtRatedFlow": {
+        "value": 7.13,
+        "units": "m"
+      },
+      "clPumpToUsBaseplate": {
+        "value": 0.71,
+        "units": "m"
+      },
+      "npshMarginAtRatedFlow": {
+        "value": 2.12,
+        "units": "m"
+      },
+      "specificSpeed": {
+        "reference": "6.1.9",
+        "value": 2040,
+        "units": "m3/h, rpm, m"
+      },
+      "suctionSpecificSpeedLimit": {
+        "value": 12760,
+        "units": "m3/h, rpm, m"
+      },
+      "suctionSpecificSpeed": {
+        "value": 12660,
+        "units": "m3/h, rpm, m"
+      },
+      "maxAllowSoundPressLevelReqd": {
+        "reference": "6.1.14",
+        "value": "85 (train)",
+        "units": "dBA"
+      },
+      "estMaxSoundPressLevel": {
+        "value": "not found",
+        "units": "dBA"
+      },
+      "maxSoundPowerLevelReqd": {
+        "reference": "6.1.14",
+        "value": "not found",
+        "units": null
+      },
+      "estMaxSoundPowerLevel": {
+        "value": "not found",
+        "units": null
+      }
+    },
+    "driver": {
+      "reference": "7.1.5",
+      "driverType": {
+        "motor": true,
+        "gear": false
+      },
+      "variableSpeedRequired": "NO",
+      "sourceOfVariableSpeed": "not found",
+      "other": "not found",
+      "manufacturer": "WEG",
+      "nameplatePower": {
+        "value": 90,
+        "units": "kW",
+        "quantity": "01"
+      },
+      "nominalRpm": {
+        "value": 3000,
+        "quantity": "01"
+      },
+      "ratedLoadRpm": 2975,
+      "frameOrModel": "280S/M",
+      "orientation": "HORIZONTAL",
+      "lube": "Grease",
+      "bearingType": {
+        "radial": "Ball / 6314-C3",
+        "thrust": "Ball / 6314-C3"
+      },
+      "startingMethod": "Open Valve (Fully-Loaded)",
+      "seeDriverDataSheet": {
+        "documentNumber": "DRP001-PUC-GAB-D79-120PM-057A-0002",
+        "quantity": "01"
+      }
+    }
+  }
+}

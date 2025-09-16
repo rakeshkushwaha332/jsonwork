@@ -1,0 +1,145 @@
+{
+  "API_675": {
+    "document_header": {
+      "logos": [
+        {
+          "name": "DUQM REFINERY",
+          "arabic_name": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645"
+        },
+        {
+          "name": "TECNICAS REUNIDAS"
+        },
+        {
+          "name": "DAEWOO E&C"
+        }
+      ],
+      "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+      "job_details": {
+        "job_no": "10121",
+        "item_no": "120P-056 A/B",
+        "purchase_order_no": "1012005090",
+        "specification_no": "DRP001-PUC-SPE-R-000-005",
+        "revision_no": "03",
+        "date": "25-Feb-2021",
+        "page": "6",
+        "of_pages": "7",
+        "by": "S. Rossetti",
+        "doc_number": "DRP001-PUC-GAB-A30-120P-056A-0001"
+      },
+      "revision": {
+        "revision_label": "Revision",
+        "rev": "not found"
+      }
+    },
+    "pressure_vessel_design_code_references": {
+      "instruction": "THESE REFERENCES MUST BE LISTED BY THE MANUFACTURER",
+      "items": [
+        {
+          "description": "CASTING FACTORS USED IN DESIGN (TABLE 4)",
+          "value": "YES",
+          "selected": true
+        },
+        {
+          "description": "SOURCE OF MATERIAL PROPERTIES",
+          "value": "YES",
+          "selected": true
+        }
+      ]
+    },
+    "welding_and_repairs": {
+      "instruction": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER. (DEFAULT TO TABLE 10 IF NO PURCHASER PREFERENCE IS STATED)",
+      "items": [
+        {
+          "description": "ALTERNATE WELDING CODES AND STANDARDS",
+          "value": "YES",
+          "selected": true
+        },
+        {
+          "description": "WELDING REQUIREMENT (APPLICABLE CODE OR STANDARD)",
+          "value": "DRP001-PUC-SPE-W-000-006",
+          "selected": false
+        },
+        {
+          "description": "WELDER/OPERATOR QUALIFICATION",
+          "value": "TO INCLUDE IN WELDING DOSSIER",
+          "selected": false
+        },
+        {
+          "description": "WELDING PROCEDURE QUALIFICATION",
+          "value": "TO INCLUDE IN WELDING DOSSIER",
+          "selected": false
+        },
+        {
+          "description": "NON-PRESSURE RETAINING STRUCTURAL WELDING SUCH AS BASEPLATES OR SUPPORTS",
+          "value": "not found",
+          "selected": false
+        },
+        {
+          "description": "MAGNETIC PARTICLE OR LIQUID PENETRANT EXAMINATION OF PLATE EDGES",
+          "value": "not found",
+          "selected": false
+        },
+        {
+          "description": "POSTWELD HEAT TREATMENT",
+          "value": "not found",
+          "selected": false
+        },
+        {
+          "description": "POSTWELD HEAT TREATMENT OF CASING FABRICATION WELDS",
+          "value": "not found",
+          "selected": false
+        }
+      ]
+    },
+    "material_inspection": {
+      "instruction_line": {
+        "instruction": "THESE REFERENCES MUST BE LISTED BY THE PURCHASER",
+        "default_option": "DEFAULT TO TABLE 14",
+        "value": "YES",
+        "selected": true
+      },
+      "sub_instruction": "ALTERNATIVE MATERIAL INSPECTIONS AND ACCEPTANCE CRITERIA (SEE TABLE 14) (8.2.2.5)",
+      "inspection_table": {
+        "headers": {
+          "type_of_inspection": "TYPE OF INSPECTION",
+          "method": "METHOD",
+          "for_fabrications": "FOR FABRICATIONS",
+          "for_castings": "FOR CASTINGS"
+        },
+        "rows": [
+          {
+            "type_of_inspection": "RADIOGRAPHY",
+            "method": "not found",
+            "for_fabrications": "not found",
+            "for_castings": "not found"
+          },
+          {
+            "type_of_inspection": "ULTRASONIC INSPECTION",
+            "method": "not found",
+            "for_fabrications": "not found",
+            "for_castings": "not found"
+          },
+          {
+            "type_of_inspection": "MAGNETIC PARTICLE INSPECTION",
+            "method": "not found",
+            "for_fabrications": "not found",
+            "for_castings": "not found"
+          },
+          {
+            "type_of_inspection": "LIQUID PENETRANT INSPECTION",
+            "method": "not found",
+            "for_fabrications": "not found",
+            "for_castings": "not found"
+          },
+          {
+            "type_of_inspection": "VISUAL INSPECTION (all surfaces)",
+            "method": "not found",
+            "for_fabrications": "not found",
+            "for_castings": "not found"
+          }
+        ]
+      }
+    },
+    "remarks": "In addition to Table 14 for pressure casing material inspection requirements, Project specifications DRP001-PUC-SPE-R-000-005 Centrifugal Pumps shall be followed."
+  }
+}

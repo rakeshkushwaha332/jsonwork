@@ -1,0 +1,586 @@
+{
+  "API_675": {
+    "document_metadata": {
+      "title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+      "job_no": "10121",
+      "item_no": "130P-010 A/B",
+      "purchase_order_no": "1012005090",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "1",
+      "date": "9-Jan-20",
+      "page": "5",
+      "of_pages": "7",
+      "by": "G.Buttolo",
+      "doc_number": "DRP001-PUC-GAB-A30-130P-010A-0001",
+      "revision_log": [
+        {
+          "description": "Not Found",
+          "rev": "Not Found"
+        }
+      ]
+    },
+    "sections": [
+      {
+        "section_title": "SURFACE PREPARATION AND PAINT (P8)",
+        "fields": [
+          {
+            "field_name": "MANUFACTURER'S STANDARD",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "OTHER (SEE BELOW)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "SPECIFICATION NO.",
+            "value": "DRP001-PUC-SPE-W-000-008"
+          },
+          {
+            "field_name": "PUMP",
+            "sub_fields": [
+              {
+                "field_name": "PUMP SURFACE PREPARATION",
+                "value": "UNI EN ISO 8501-1 SA 2 1/2"
+              },
+              {
+                "field_name": "PRIMER",
+                "value": "Epoxy Zinc Rich Primer"
+              },
+              {
+                "field_name": "FINISH COAT",
+                "value": "RAL 7035 Light Grey"
+              }
+            ]
+          },
+          {
+            "field_name": "BASEPLATE",
+            "sub_fields": [
+              {
+                "field_name": "BASEPLATE SURFACE PREPARATION",
+                "value": "Suitable for Epoxy Grout"
+              },
+              {
+                "field_name": "PRIMER",
+                "value": "Epoxy Zinc Rich Primer"
+              },
+              {
+                "field_name": "FINISH COAT",
+                "value": "RAL 7035 Light Grey"
+              }
+            ]
+          },
+          {
+            "field_name": "DETAILS OF LIFTING DEVICES",
+            "value": "Not Found"
+          }
+        ]
+      },
+      {
+        "section_title": "SHIPMENT: (8.4.1)",
+        "fields": [
+          {
+            "field_name": "Type",
+            "value": "EXPORT"
+          },
+          {
+            "field_name": "EXPORT BOXING REQUIRED",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "OUTDOOR STORAGE MORE THAN 6 MONTHS",
+            "selected": true,
+            "value": "YES"
+          }
+        ]
+      },
+      {
+        "section_title": "SPARE ROTOR ASSEMBLY PACKAGED FOR",
+        "fields": [
+          {
+            "field_name": "ROTOR STORAGE ORIENTATION (9.2.8.2)",
+            "value": "Not Found"
+          },
+          {
+            "field_name": "SHIPPING & STORAGE CONTAINER FOR VERT STORAGE (9.2.8.3)",
+            "value": "Not Found"
+          }
+        ]
+      },
+      {
+        "section_title": "N2 PURGE (9.2.8.4)",
+        "fields": [
+          {
+            "field_name": "N2 PURGE (9.2.8.4)",
+            "value": "Not Found"
+          }
+        ]
+      },
+      {
+        "section_title": "SPARE PARTS",
+        "fields": [
+          {
+            "field_name": "START-UP",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "NORMAL MAINTENANCE",
+            "note": "M11",
+            "selected": true,
+            "value": "YES"
+          }
+        ]
+      },
+      {
+        "section_title": "WEIGHTS kg",
+        "table": [
+          {
+            "ITEM No": "130P-010A",
+            "PUMP": "1300",
+            "DRIVER": "1400",
+            "OTHER": "342",
+            "BASE": "1892",
+            "TOTAL": "4934"
+          },
+          {
+            "ITEM No": "130P-010B",
+            "PUMP": "1300",
+            "DRIVER": "1400",
+            "OTHER": "342",
+            "BASE": "1892",
+            "TOTAL": "4934"
+          }
+        ]
+      },
+      {
+        "section_title": "OTHER PURCHASER REQUIREMENTS",
+        "fields": [
+          {
+            "field_name": "COORDINATION MEETING REQUIRED (10.1.3)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "MAXIMUM DISCHARGE PRESSURE TO INCLUDE",
+            "note": "M2",
+            "sub_fields": [
+              {
+                "field_name": "MAX RELATIVE DENSITY",
+                "selected": true,
+                "value": "YES"
+              },
+              {
+                "field_name": "OPERATION TO TRIP SPEED",
+                "selected": false,
+                "value": "NO"
+              },
+              {
+                "field_name": "MAX DIA. IMPELLERS AND/OR NO OF STAGES",
+                "selected": false,
+                "value": "NO"
+              }
+            ]
+          },
+          {
+            "field_name": "CONNECTION DESIGN APPROVAL (9.2.1.4)",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "TORSIONAL ANALYSIS / REPORT (6.9.2.10)",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "PROGRESS REPORTS",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "OUTLINE OF PROC FOR OPTIONAL TESTS (10.2.5)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "ADDITIONNAL DATA REQUIRING 20 YEARS RETENTION (8.2.1.1)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "LATERAL ANALYSIS REQUIRED (9.1.3.4) (9.2.4.1.3)",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "MODAL ANALYSIS REQUIRED (9.3.9.2)",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "DYNAMIC BALANCE ROTOR (6.9.4.4)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "INSTALLATION LIST IN PROPOSAL (10.2.3.1)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "VFD STEADY STATE DAMPED RESPONSE ANALYSIS (6.9.2.3)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "TRANSIENT TORSIONAL RESPONSE (6.9.2.4)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "BEARING LIFE CALCULATIONS REQUIRED (6.10.1.6)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "IGNITION HAZARD ASSMT TO EN 13463-1 (7.2.13.e)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "CASING RETIREMENT THICKNESS DRAWING (10.3.2.3)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "FLANGES RQD IN PLACE OF SKT WELD UNIONS (7.5.2.8)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "INCLUDE PLOTTED VIBRATION SPECTRA (6.9.3.3)",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "CONNECTION BOLTING (7.5.1.7)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "CADMIUM PLATED BOLTS PROHIBITED",
+            "selected": true,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "VENDOR TO KEEP REPAIR AND HT RCDS (8.2.1.1.c)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "VENDOR SUBMIT TEST PROCEDURES (8.3.1.1)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "SUBMIT INSPECTION CHECK LIST (8.1.5)",
+            "selected": true,
+            "value": "YES"
+          }
+        ]
+      },
+      {
+        "section_title": "TEST (M10)",
+        "fields": [
+          {
+            "field_name": "SHOP INSPECTION (8.1.1)",
+            "sub_fields": [
+              {
+                "field_name": "PERFORMANCE CURVE & DATA APPROVAL PRIOR TO SHIPMENT.",
+                "selected": true,
+                "value": "YES"
+              }
+            ]
+          },
+          {
+            "field_name": "TEST WITH SUBSTITUTE SEAL (8.3.3.2.b)",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "MATERIAL CERTIFICATION REQUIRED (6.12.1.8)",
+            "sub_fields": [
+              {
+                "field_name": "CASING",
+                "selected": true,
+                "value": "YES",
+                "rev": "Not Found"
+              },
+              {
+                "field_name": "IMPELLER",
+                "selected": true,
+                "value": "YES",
+                "rev": "01"
+              },
+              {
+                "field_name": "SHAFT",
+                "selected": true,
+                "value": "YES",
+                "rev": "01"
+              },
+              {
+                "field_name": "OTHER",
+                "selected": true,
+                "value": "YES",
+                "rev": "Not Found"
+              }
+            ]
+          },
+          {
+            "field_name": "CASTING REPAIR WELD PROCEDURE APPR REQD (6.12.2.5) (6.12.3.1)",
+            "selected": true,
+            "value": "YES"
+          },
+          {
+            "field_name": "INSPECTION REQUIRED FOR CONNECTION WELDS (6.12.3.4.d)",
+            "sub_fields": [
+              {
+                "field_name": "MAG PARTICLE (6.12.3.4.e)",
+                "selected": true,
+                "value": "YES",
+                "rev": "01"
+              },
+              {
+                "field_name": "RADIOGRAPHY",
+                "selected": false,
+                "value": "NO"
+              },
+              {
+                "field_name": "LIQUID PENETRANT",
+                "selected": true,
+                "value": "YES"
+              },
+              {
+                "field_name": "ULTRASONIC",
+                "selected": false,
+                "value": "NO"
+              }
+            ]
+          },
+          {
+            "field_name": "INSPECTION REQUIRED FOR CASTINGS",
+            "sub_fields": [
+              {
+                "field_name": "MAG PARTICLE",
+                "selected": true,
+                "value": "YES"
+              },
+              {
+                "field_name": "RADIOGRAPHY",
+                "selected": false,
+                "value": "NO"
+              },
+              {
+                "field_name": "LIQUID PENETRANT",
+                "selected": true,
+                "value": "YES"
+              },
+              {
+                "field_name": "ULTRASONIC",
+                "selected": false,
+                "value": "NO"
+              }
+            ]
+          },
+          {
+            "field_name": "HARDNESS TEST REQUIRED (8.2.2.7)",
+            "selected": false,
+            "value": "NO"
+          },
+          {
+            "field_name": "ADDNL SUBSURFACE EXAMINATION (6.12.1.5) (8.2.1.3)",
+            "selected": true,
+            "value": "YES",
+            "for": "SHAFT",
+            "method": "MT / PT and UT"
+          },
+          {
+            "field_name": "PMI TESTING REQUIRED (8.2.2.8)",
+            "selected": true,
+            "value": "YES",
+            "components_to_be_tested": "alloy, austenitic, duplex"
+          },
+          {
+            "field_name": "RESIDUAL UNBALANCE TEST (J.4.1.2)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "NOTIFICATION OF SUCCESSFUL SHOP",
+            "selected": true,
+            "value": "Not Found",
+            "rev": "01"
+          },
+          {
+            "field_name": "PERFORMANCE TEST (8.1.1.c) (8.3.3.5)",
+            "selected": true,
+            "value": "YES",
+            "rev": "01"
+          },
+          {
+            "field_name": "BASEPLATE TEST (7.3.21)",
+            "selected": true,
+            "value": "YES",
+            "rev": "01"
+          },
+          {
+            "field_name": "HYDROSTATIC",
+            "value": "WIT"
+          },
+          {
+            "field_name": "HYDROSTATIC TEST OF BOWLS & COLUMN (9.3.13.2)",
+            "value": "Not Found"
+          },
+          {
+            "field_name": "PERFORMANCE TEST",
+            "value": "WIT"
+          },
+          {
+            "field_name": "TEST IN COMPLIANCE WITH (8.3.3.2)",
+            "value": "8.3.3.2"
+          },
+          {
+            "field_name": "TEST DATA POINTS TO (8.3.3.3)",
+            "value": "8.3.3.3"
+          },
+          {
+            "field_name": "TEST TOLERANCES TO (8.3.3.4)",
+            "value": "TABLE 16"
+          },
+          {
+            "field_name": "NPSH (8.3.4.3.1) (8.3.4.3.4)",
+            "selected": true,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "NPSH-1ST STG ONLY (8.3.4.3.2)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "NPSH TESTING TO HI 1.6 OR ISO 9906 (8.3.4.3.3)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "TEST NPSHA LIMITED TO 110% SITE NPSHA (8.3.3.6)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "RETEST ON SEAL LEAKAGE (8.3.3.2.d)",
+            "value": "OBSERVE"
+          },
+          {
+            "field_name": "RETEST REQUIRED AFTER FINAL HEAD ADJ (8.3.3.7.b)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "COMPLETE UNIT TEST (8.3.4.4.1)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "SOUND LEVEL TEST (8.3.4.5)",
+            "value": "WIT"
+          },
+          {
+            "field_name": "CLEANLINESS PRIOR TO FINAL ASSEMBLY (8.2.2.6)",
+            "value": "NON-WIT"
+          },
+          {
+            "field_name": "LOCATION OF CLEANLINESS INSPECTION",
+            "selected": true,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "NOZZLE LOAD TEST",
+            "selected": true,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "CHECK FOR CO-PLANAR MOUNTING PAD SURFACES",
+            "value": "OBSERVE"
+          },
+          {
+            "field_name": "MECHANICAL RUN TEST UNTIL OIL TEMP STABLE",
+            "value": "WIT"
+          },
+          {
+            "field_name": "4 HR. MECH RUN AFTER OIL TEMP STABLE (8.3.4.2.1)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "4 HR. MECH RUN TEST (8.3.4.2.2)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "BRG HSG RESONANCE TEST (8.3.4.7)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "STRUCTURAL RESONANCE TEST (9.3.9.2)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "REMOVE / INSPECT HYDRODYNAMIC BEARINGS AFTER TEST (9.2.7.5)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "AUXILIARY EQUIPMENT TEST (8.3.4.6)",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "EQUIPMENT TO BE INCLUDED IN AUXILLIARY TESTS",
+            "selected": false,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "LOCATION OF AUXILIARY EQUIPENT TEST",
+            "selected": true,
+            "value": "Not Found"
+          },
+          {
+            "field_name": "IMPACT TEST (6.12.4.3)",
+            "sub_fields": [
+              {
+                "field_name": "PER EN 13445",
+                "selected": false,
+                "value": "Not Found"
+              },
+              {
+                "field_name": "PER ASME SECTION VIII",
+                "selected": true,
+                "value": "Not Found"
+              }
+            ]
+          },
+          {
+            "field_name": "REMOVE CASING AFTER TEST",
+            "selected": true,
+            "value": "Not Found"
+          }
+        ]
+      }
+    ]
+  }
+}

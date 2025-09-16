@@ -1,0 +1,145 @@
+{
+  "API_675": {
+    "document_info": {
+      "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+      "job_no": "10121",
+      "item_no": "120P-051 A/B",
+      "purchase_order_no": "1012005090",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "01",
+      "date": "23-Feb-21",
+      "page_info": {
+        "current_page": 4,
+        "total_pages": 7
+      },
+      "by": "S. Rossetti",
+      "doc_number": "DRP001-PUC-GAB-A30-120P-051A-0001"
+    },
+    "instrumentation": {
+      "title": "INSTRUMENTATION",
+      "see_attached_api_670_data_sheet": false,
+      "accelerometer": {
+        "reference": "(7.4.2.1)",
+        "is_selected": true,
+        "number_of_accelerometers": "not found",
+        "mounting_location_of_accelerometers": "not found"
+      },
+      "provision_for_mtg_only": {
+        "reference": "(6.10.2.10)",
+        "is_selected": false,
+        "number_of_accelerometers": "not found",
+        "mounting_location_of_accelerometers": "not found"
+      },
+      "flat_surface_required": {
+        "reference": "(6.10.2.11)",
+        "is_selected": true,
+        "number_of_accelerometers": "not found",
+        "mounting_location_of_accelerometers": "not found"
+      },
+      "vibration_probes": {
+        "reference": "(7.4.2.2)",
+        "is_selected": true,
+        "provisions_for_vib_probes": {
+          "is_selected": true,
+          "value": "not found"
+        },
+        "number_per_radial_bearing": "not found",
+        "number_per_axial_bearing": "not found",
+        "keyphasor": "not found"
+      },
+      "monitors_and_cables_supplied_by": {
+        "reference": "(7.4.2.4)",
+        "value": "not found"
+      },
+      "temperature": {
+        "reference": "(7.4.2.3)",
+        "is_selected": true,
+        "provisions_for_temp_probes": {
+          "is_selected": true,
+          "value": "not found"
+        },
+        "radial_bearing_temp": {
+          "is_selected": true,
+          "number_per_radial_bearing": "not found"
+        },
+        "thrust_bearing_temp": {
+          "is_selected": true,
+          "number_per_thrust_bearing_active_side": "not found",
+          "number_per_thrust_bearing_inactive_side": "not found"
+        }
+      },
+      "temp_gauges_with_thermowells": {
+        "reference": "(9.1.3.6)",
+        "is_selected": false
+      },
+      "pressure_gauge_type": "not found"
+    },
+    "seal_support_system_mounting": {
+      "title": "SEAL SUPPORT SYSTEM MOUNTING",
+      "seal_support_system_mounted_on_pump_baseplate": {
+        "reference": "(7.5.1.4)",
+        "value": true
+      },
+      "identify_location_on_baseplate": "not found",
+      "interconnecting_piping_by": "Supplier"
+    },
+    "mechanical_seal": {
+      "title": "MECHANICAL SEAL (6.8.1)",
+      "see_attached_iso_21049_api_682_data_sheet": true,
+      "additional_central_flush_port": {
+        "reference": "(6.8.9)",
+        "value": false
+      },
+      "heating_jacket_reqd": {
+        "reference": "(6.8.11)",
+        "value": false
+      }
+    },
+    "heating_and_cooling": {
+      "title": "HEATING AND COOLING (6.1.17)",
+      "cooling_reqd": true,
+      "cooling_water_piping_plan": "M",
+      "cooling_water_piping": "PIPE",
+      "fittings": "not found",
+      "cooling_water_piping_materials": "CS",
+      "cooling_water_requirements": {
+        "bearing_housing": {
+          "value": "not found",
+          "unit": "m\u00b3/h"
+        },
+        "heat_exchanger": {
+          "value": 1.5,
+          "unit": "m\u00b3/h"
+        }
+      },
+      "total_cooling_water": {
+        "value": 1.5,
+        "unit": "m\u00b3/h"
+      },
+      "heating_medium": "not found",
+      "other": "not found",
+      "heating_piping": "not found"
+    },
+    "piping_and_appurtenances": {
+      "title": "PIPING & APPURTENANCES",
+      "manifold_piping_for_purchaser_connection": {
+        "reference": "(7.5.1.6)",
+        "vent": true,
+        "drain": true,
+        "cooling_water": true
+      },
+      "tag_all_orifices": {
+        "reference": "(7.5.2.4)",
+        "value": true
+      },
+      "socket_weld_conn_on_seal_gland": {
+        "reference": "(7.5.2.8)",
+        "value": false
+      }
+    },
+    "remarks": [
+      "Vibration and temperature Monitoring scope shall be acc. DRP001-PUC-SPE-R-000-005, considering driver, criticality and bearings type.",
+      "Machine condition monitoring Class D acc. Appendix A, DRP001-PUC-SPE-K-000-007"
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "API_675": {
+    "document_metadata": {
+      "job_no": "10121",
+      "item_no": "120P-058 A/B",
+      "purchase_order_no": "1012005090",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "01",
+      "date": "20-dic-19",
+      "page_info": {
+        "current_page": 7,
+        "total_pages": 7
+      },
+      "by": "G.Buttolo",
+      "doc_number": "DRP001-PUC-GAB-A30-120P-58A-0001",
+      "companies": [
+        {
+          "name": "DUQM REFINERY",
+          "logo_text": "\u0645\u0635\u0641\u0627\u0629 \u0627\u0644\u062f\u0642\u0645"
+        },
+        {
+          "name": "TECNICAS REUNIDAS",
+          "logo_text": null
+        },
+        {
+          "name": "DAEWOO E&C",
+          "logo_text": null
+        }
+      ],
+      "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+      "section_title": "NOTES",
+      "revision_column_header": "Revision"
+    },
+    "notes_section": [
+      {
+        "line_no": "1",
+        "note_id": "Note",
+        "description": "Process notes",
+        "revision": null
+      },
+      {
+        "line_no": "2",
+        "note_id": "P1",
+        "description": "See Project Design Data, document no. DRP001-PUC-SPE-U-000-002 latest revision, for site conditions, meteorological data and available utilities.",
+        "revision": "01"
+      },
+      {
+        "line_no": "3",
+        "note_id": "P2",
+        "description": "NPSHA Datum is pump centerline at 1.01 m above grade.",
+        "revision": "01"
+      },
+      {
+        "line_no": "4",
+        "note_id": "P3",
+        "description": {
+          "summary": "The available NPSH shall exceed the NPSHr by 1.0 m at pump rated capacity. The NPSHr shall be lower than the NPSHA by at least 0.5 m over the full operating range of the pump as defined below:",
+          "parallel_pump_operation": {
+            "condition": "At the intersection of one pump operating and the system curve NPSHA of one pump operating without margin:",
+            "npsha_values": [
+              {
+                "condition": "NPSHA @ 100% flow of one pump operating (50% of total flow)",
+                "value": "4.19 m"
+              },
+              {
+                "condition": "NPSHA @ 120% flow of one pump operating (60% of total flow)",
+                "value": "4.69 m"
+              },
+              {
+                "condition": "NPSHA @ 140% flow of one pump operating (70% of total flow)",
+                "value": "4.39 m"
+              },
+              {
+                "condition": "NPSHA @ 160% flow of one pump operating (80% of total flow)",
+                "value": "4.19 m"
+              },
+              {
+                "condition": "NPSHA @ 180% flow of one pump operating (90% of total flow)",
+                "value": "3.79 m"
+              }
+            ]
+          }
+        },
+        "revision": "01"
+      },
+      {
+        "line_no": "5",
+        "note_id": "P4",
+        "description": "One pump is working and one pump is standby. Parallel operation of two pumps is expected",
+        "revision": "01"
+      },
+      {
+        "line_no": "6",
+        "note_id": null,
+        "description": {
+          "reference": "Refer to Project Design Data DRP001-PUC-SPE-U-000-002 latest revision for cooling water conditions. According to this document, cooling water conditions are the following:",
+          "cooling_water_supply": {
+            "location": "inlet to equipment",
+            "pressure_at_grade_level": {
+              "label": "Min/Normal/Max/Design",
+              "value": "4.5 / 5.5 / 6.5 / 13.0",
+              "unit": "kg/cm2(g)"
+            },
+            "temperature": {
+              "label": "Normal/Design",
+              "value": "33 / 85",
+              "unit": "\u00b0C",
+              "design_ug": "60\u00b0C"
+            }
+          },
+          "cooling_water_return": {
+            "location": "outlet from equipment",
+            "pressure_at_grade_level": {
+              "label": "Min/Normal/Max/Design",
+              "value": "3.0 / 3.5 / 4.5 / 13.0",
+              "unit": "kg/cm2(g)"
+            },
+            "temperature": {
+              "label": "Normal/Design",
+              "value": "43 / 85",
+              "unit": "\u00b0C",
+              "design_ug": "60\u00b0C"
+            }
+          },
+          "other_requirements": [
+            "Cooling Water Delta T = 10 \u00b0C. vendor has to adjust to this delta.",
+            "Maximum allowable pressure drop through package: 0.5 kg/cm2g (referred to grade level)."
+          ]
+        },
+        "revision": null
+      },
+      {
+        "line_no": "7",
+        "note_id": "P6",
+        "description": "Expected consumption of cooling water for each pump is 1.5 m3/h.",
+        "revision": null
+      },
+      {
+        "line_no": "8",
+        "note_id": "P7",
+        "description": "Minimum flow corresponds to Turndown Operation: 45% continuous operation.",
+        "revision": null
+      },
+      {
+        "line_no": "9",
+        "note_id": "P8",
+        "description": "Insulation for Process reason: Personal protection",
+        "revision": null
+      },
+      {
+        "line_no": "10",
+        "note_id": "P9",
+        "description": "Both pumps shall have identical head curves, rising shut-off, and be suitable for parallel operation.",
+        "revision": null
+      },
+      {
+        "line_no": "11",
+        "note_id": "P10",
+        "description": "Service could be rich amine with 4.5 wt% H2S. Density = 1028.8 kg/m3, viscosity = 1.626 cP @ 59\u00b0C. Suction pressure (rated/max) = 0.46 / 4.17 kg/cm2g. System design pressure = 21.2 kg/cm2g @ 260\u00b0C.",
+        "revision": null
+      },
+      {
+        "line_no": "12",
+        "note_id": null,
+        "description": "Mechanical notes",
+        "revision": null
+      },
+      {
+        "line_no": "13",
+        "note_id": "M1",
+        "description": "In accordance with DRP001-PUC-SPE-M-000-007 - work area limit code for train is G1 - 85 dBA @ 1 m for complete train.",
+        "revision": null
+      },
+      {
+        "line_no": "14",
+        "note_id": "M2",
+        "description": [
+          "Pump Max. discharge pressure is 14.2 kg/cm2g considering max. specific gravity (0.678), max. suction pressure of 3.98 kg/cm2g and shut-off differential head of 143.7 m and 5% head increase by increasing impeller according project requirement, and not including API 610 test tolerances. System design pressure is 14.8 kg/cm2g @ 260\u00b0C.",
+          "Pump Max. discharge pressure is 19.63 kg/cm2g considering max. specific gravity (1.028), max. suction pressure of 4.17 kg/cm2g and shut-off differential head of 143.7 m and 5% head increase by increasing impeller according project requirement, and not including API 610 test tolerances. System design pressure is 21.2 kg/cm2g @ 260\u00b0C."
+        ],
+        "revision": "01"
+      },
+      {
+        "line_no": "15",
+        "note_id": "M3",
+        "description": "Mechanical shaft seals must be according API 682 4 th edition and DRP001-PUC-SPE-R-000-015. Selection for flushing & auxiliary system components (valves, instruments, pipe schedule, flange ratings, etc) in accordance with pump MAWP at design temperature (refer to API 682 sec. 8.1.4). Refer to mechanical seal data sheet with selection 23A-PIN-060-053B.",
+        "revision": null
+      },
+      {
+        "line_no": "16",
+        "note_id": "M4",
+        "description": "Pump shall be capable of withstanding double the forces and moments in table 5 from API 610 11th, amended by DRP001-PUC-SPE-R-000-005 p. 6.5, without causing an internal rub or adversely affecting pumps or seal operation.",
+        "revision": "01"
+      },
+      {
+        "line_no": "17",
+        "note_id": "M5",
+        "description": "Couplings, coupling-to-shaft junctures and any other torque transmission component shall be suitable to withstand transient peak torque following momentary voltage dips (100% residual voltage and out-of-phase switchgear re-closure).",
+        "revision": null
+      },
+      {
+        "line_no": "18",
+        "note_id": "M6",
+        "description": "Hazardous Service A Category according 3.1.96 of Project Specification DRP001-PUC-SPE-R-000-015.",
+        "revision": null
+      },
+      {
+        "line_no": "19",
+        "note_id": "M7",
+        "description": "Pump shall be designed to operate continuously without the use of cooling liquid as per DRP001-PUC-SPE-R-000-005 p. 6.1.17",
+        "revision": null
+      },
+      {
+        "line_no": "20",
+        "note_id": "M8",
+        "description": "Pump shall be sized for end of the curve operation. Pump must be able to pump water on a cold start.",
+        "revision": null
+      },
+      {
+        "line_no": "21",
+        "note_id": "M9",
+        "description": "It is acceptable to operate both pumps with electric drivers if both electric drivers are on completely separate electric sources. One electric source shall be considered critical service.",
+        "revision": null
+      },
+      {
+        "line_no": "22",
+        "note_id": "M10",
+        "description": "Bearings and lubrication",
+        "revision": null
+      },
+      {
+        "line_no": "23",
+        "note_id": null,
+        "description": "Inpro seals bearing isolators to be provided on pump bearing housing, specifically suited and experienced for PURE OIL MIST applications.",
+        "revision": null
+      },
+      {
+        "line_no": "24",
+        "note_id": "M11",
+        "description": "Motor Driver",
+        "revision": null
+      },
+      {
+        "line_no": "25",
+        "note_id": null,
+        "description": "Main driver motor shall be in accordance to IEC 60034 and applicable project specification DRP001-PUC-SPE-E-000-009",
+        "revision": null
+      },
+      {
+        "line_no": "26",
+        "note_id": null,
+        "description": "Motor sized for automatic start with the discharge valve open and ability to meet end-of-curve power requirements",
+        "revision": null
+      },
+      {
+        "line_no": "27",
+        "note_id": null,
+        "description": "Transverse and axial alignment positioning jackscrews shall be provided for drive train components with mass greater than 100 kg.",
+        "revision": null
+      },
+      {
+        "line_no": "28",
+        "note_id": "M12",
+        "description": "Inspection and testing",
+        "revision": null
+      },
+      {
+        "line_no": "29",
+        "note_id": null,
+        "description": "Inspection and testing in accordance with project specification for API-610 centrifugal pumps DRP001-PUC-SPE-R-000-005 and Project specification for QA, QC/Inspection DRP001-PUC-PRO-N-000-004.",
+        "revision": null
+      },
+      {
+        "line_no": "30",
+        "note_id": null,
+        "description": "NPSH3 test is required where difference with NPSHa is less than 1,5 m. at pump rated flow or less than 0,7m over the entire operating range.",
+        "revision": null
+      },
+      {
+        "line_no": "31",
+        "note_id": null,
+        "description": {
+          "nde_requirements_reference": "Refer to DRP001-PUC-SPE-R-000-005 parag. 8.2.1.3 for additional parts NDE requirements (shafts, balance drums/piston, and sleeves).",
+          "iap_information": {
+            "instruction": "Vendor to refers to IAP enclosed in material requisition considering following information",
+            "notes": [
+              "Witness in DS means HOLD in IAP",
+              "Observe in DS means Witness in IAP"
+            ]
+          }
+        },
+        "revision": null
+      },
+      {
+        "line_no": "32",
+        "note_id": null,
+        "description": "General",
+        "revision": null
+      },
+      {
+        "line_no": "33",
+        "note_id": "M13",
+        "description": "Normal Maintenance Spare Parts (Two Years) will be purchased by CONTRACTOR in a separated PO",
+        "revision": null
+      },
+      {
+        "line_no": "34",
+        "note_id": null,
+        "description": null,
+        "revision": null
+      }
+    ]
+  }
+}

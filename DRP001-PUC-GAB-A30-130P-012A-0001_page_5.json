@@ -1,0 +1,180 @@
+{
+  "API_675": {
+    "document_header": {
+      "company_logos": [
+        "DUQM REFINERY",
+        "TECNICAS REUNIDAS",
+        "DAEWOO E&C"
+      ],
+      "document_title": "CENTRIFUGAL PUMPS API 610 11TH EDITION DATA SHEET SI UNITS",
+      "job_no": "10121",
+      "item_no": "130P-012 A/B",
+      "purchase_order_no": "1012005090",
+      "specification_no": "DRP001-PUC-SPE-R-000-005",
+      "revision_no": "02",
+      "date": "25-Feb-2021",
+      "page": "5 OF 7",
+      "by": "S. Rossetti",
+      "doc_number": "DRP001-PUC-GAB-A30-130P-012A-0001",
+      "revision": "not_found"
+    },
+    "surface_preparation_and_paint_p8": {
+      "note": "not_found",
+      "manufacturer_standard": "NO",
+      "other_see_below": "YES",
+      "specification_no": "DRP001-PUC-SPE-W-000-008",
+      "pump": {
+        "pump_surface_preparation": "UNI EN ISO 8501-1 SA 2\u00bd",
+        "primer": "Epoxy Zinc Rich Primer",
+        "finish_coat": "RAL 7035 Light Grey"
+      },
+      "baseplate": {
+        "baseplate_surface_preparation": "Suitable for Epoxy Grout",
+        "primer": "Epoxy Zinc Rich Primer",
+        "finish_coat": "RAL 7035 Light Grey"
+      },
+      "details_of_lifting_devices": "not_found"
+    },
+    "shipment_8_4_1": {
+      "type": "EXPORT",
+      "export_boxing_required": "YES",
+      "outdoor_storage_more_than_6_months": "YES"
+    },
+    "spare_rotor_assembly_packaged_for": {
+      "rotor_storage_orientation_9_2_8_2": "not_found",
+      "shipping_and_storage_container_for_vert_storage_9_2_8_3": "not_found"
+    },
+    "n2_purge_9_2_8_4": "not_found",
+    "spare_parts": {
+      "start_up": "YES",
+      "normal_maintenance_m11": "YES"
+    },
+    "weights_kg": [
+      {
+        "item_no": "130P-012A",
+        "pump": 329,
+        "driver": 578,
+        "other": 334,
+        "base": 1016,
+        "total": 2257
+      },
+      {
+        "item_no": "130P-012B",
+        "pump": 329,
+        "driver": 578,
+        "other": 334,
+        "base": 1016,
+        "total": 2257
+      }
+    ],
+    "other_purchaser_requirements": {
+      "coordination_meeting_required_10_1_3": "YES",
+      "maximum_discharge_pressure_to_include_m2": {
+        "max_relative_density": "YES",
+        "operation_to_trip_speed": "NO"
+      },
+      "max_dia_impellers_and_or_no_of_stages": "NO",
+      "coi_02": "NO",
+      "torsional_analysis_report_6_9_2_10": "NO",
+      "outline_of_proc_for_optional_tests_10_2_5": "YES",
+      "additionnal_data_requiring_20_years_retention_8_2_1_1": "not_found",
+      "lateral_analysis_required_9_1_3_4_9_2_4_1_3": "NO",
+      "modal_analysis_required_9_3_9_2": "NO",
+      "dynamic_balance_rotor_6_9_4_4": "not_found",
+      "installation_list_in_proposal_10_2_3_1": "YES",
+      "vfd_steady_state_damped_response_analysis_6_9_2_3": "not_found",
+      "transient_torsional_response_6_9_2_4": "not_found",
+      "bearing_life_calculations_required_6_10_1_6": "YES",
+      "ignition_hazard_assmt_to_en_13463_1_7_2_13_e": "not_found",
+      "casing_retirement_thickness_drawing_10_3_2_3": "not_found",
+      "flanges_rqd_in_place_of_skt_weld_unions_7_5_2_8": "YES",
+      "include_plotted_vibration_spectra_6_9_3_3": "NO",
+      "connection_bolting_7_5_1_7": "not_found",
+      "cadmium_plated_bolts_prohibited": "not_found",
+      "vendor_to_keep_repair_and_ht_rcds_8_2_1_1_c": "YES",
+      "vendor_submit_test_procedures_8_3_1_1": "YES",
+      "submit_inspection_check_list_8_1_5": "YES"
+    },
+    "test_m10": {
+      "shop_inspection_8_1_1": "Yes",
+      "performance_curve_and_data_approval_prior_to_shipment": "YES",
+      "test_with_substitute_seal_8_3_3_2_b": "NO",
+      "material_certification_required_6_12_1_8": {
+        "casing": "YES",
+        "impeller": "YES",
+        "shaft": "YES",
+        "other": "YES"
+      },
+      "casting_repair_weld_procedure_appr_reqd_6_12_2_5_6_12_3_1": "YES",
+      "inspection_required_for_connection_welds_6_12_3_4_d": {
+        "mag_particle_6_12_3_4_e": "YES",
+        "radiography": "NO",
+        "liquid_penetrant": "YES",
+        "ultrasonic": "NO"
+      },
+      "inspection_required_for_castings": {
+        "mag_particle": "YES",
+        "radiography": "YES",
+        "liquid_penetrant": "YES",
+        "ultrasonic": "YES"
+      },
+      "hardness_test_required_8_2_2_7": "YES",
+      "addnl_subsurface_examination_6_12_1_5_8_2_1_3": {
+        "selected": "YES",
+        "for": "SHAFT",
+        "method": "MT / PT and UT"
+      },
+      "pmi_testing_required_8_2_2_8": {
+        "selected": "YES",
+        "components_to_be_tested": "alloy, austenitic, duplex"
+      },
+      "residual_unbalance_test_j_4_1_2": "not_found",
+      "notification_of_successful_shop": "not_found",
+      "performance_test_8_1_1_c_8_3_3_5": "YES",
+      "baseplate_test_7_3_21": "YES",
+      "hydrostatic": {
+        "value": "WIT",
+        "test_of_bowls_and_column_9_3_13_2": "not_found"
+      },
+      "performance_test": {
+        "value": "WIT",
+        "in_compliance_with_8_3_3_2": "8.3.3.2",
+        "data_points_to_8_3_3_3": "8.3.3.3",
+        "tolerances_to_8_3_3_4": "TABLE 16"
+      },
+      "npsh_8_3_4_3_1_8_3_4_3_4": {
+        "value": "WIT",
+        "npsh_1st_stg_only_8_3_4_3_2": "not_found",
+        "npsh_testing_to_hi_1_6_or_iso_9906_8_3_4_3_3": "not_found"
+      },
+      "test_npsha_limited_to_110_site_npsha_8_3_3_6": "not_found",
+      "retest_on_seal_leakage_8_3_3_2_d": "OBSERVE",
+      "retest_required_after_final_head_adj_8_3_3_7_b": "not_found",
+      "complete_unit_test_8_3_4_4_1": "not_found",
+      "sound_level_test_8_3_4_5": "WIT",
+      "cleanliness_prior_to_final_assembly_8_2_2_6": "NON-WIT",
+      "location_of_cleanliness_inspection": "not_found",
+      "nozzle_load_test": "not_found",
+      "check_for_co_planar_mounting_pad_surfaces": "OBSERVE",
+      "mechanical_run_test_until_oil_temp_stable": {
+        "value": "WIT",
+        "four_hr_mech_run_after_oil_temp_stable_8_3_4_2_1": "not_found",
+        "four_hr_mech_run_test_8_3_4_2_2": "not_found"
+      },
+      "brg_hsg_resonance_test_8_3_4_7": "not_found",
+      "structural_resonance_test_9_3_9_2": "not_found",
+      "remove_inspect_hydrodynamic_bearings_after_test_9_2_7_5": "not_found",
+      "auxiliary_equipment_test_8_3_4_6": {
+        "value": "not_found",
+        "equipment_to_be_included_in_auxilliary_tests": "not_found"
+      },
+      "location_of_auxiliary_equipent_test": "not_found",
+      "impact_test_6_12_4_3": {
+        "per_en_13445": "not_found",
+        "per_asme_section_viii": "not_found"
+      },
+      "remove_casing_after_test": "not_found",
+      "revision": "not_found"
+    }
+  }
+}

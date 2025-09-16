@@ -1,0 +1,64 @@
+{
+  "API_675": {
+    "document_header": {
+      "client_logo": "DUQM REFINERY",
+      "project_name": "DUQM Refinery Project",
+      "package_info": "Package 1",
+      "contractor_logos": [
+        {
+          "name": "TECNICAS REUNIDAS",
+          "logo_text": "TR"
+        },
+        {
+          "name": "DAEWOO E&C",
+          "logo_text": "D"
+        }
+      ]
+    },
+    "document_metadata": {
+      "contract_no": "CNT-1100-1000-006",
+      "drpic_contract_no": "not found",
+      "client_name": "Duqm Refinery & Petrochemical Industries Company LLC",
+      "project_title": "Duqm Refinery Project",
+      "rev_status": "not found",
+      "project_location": "Duqm, Oman",
+      "document_category": "Class 2",
+      "critically_rating": "CR-1"
+    },
+    "document_content_details": {
+      "main_title": "FINES REMOVAL PUMPS",
+      "subtitle": "DELAYED COKER UNIT - DCU",
+      "equipment_tag": "130P-015 A"
+    },
+    "revision_history": [
+      {
+        "rev": "01",
+        "date": "25-Feb-2021",
+        "issue": "Issued for Approval",
+        "prepared_by": "S. Rossetti",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Filice"
+      },
+      {
+        "rev": "00",
+        "date": "4-Jul-2019",
+        "issue": "Issued for Approval",
+        "prepared_by": "MG Lettieri",
+        "checked_by": "A. Filice",
+        "approved_by": "A. Filice"
+      }
+    ],
+    "document_identification": {
+      "document_title": "MECHANICAL DATA SHEET - FINES REMOVAL PUMP - 130P-015 A/S",
+      "document_number": "DRP001-PUC-GAB-A30-130P-015A-0001",
+      "page_info": {
+        "current_page": "1",
+        "total_pages": "8"
+      },
+      "revision": "01"
+    },
+    "footer": {
+      "disclaimer": "\"This document is property of Duqm Refinery and Petrochemical Industries Company. Its reproduction without a written permission is strictly forbidden.\""
+    }
+  }
+}
