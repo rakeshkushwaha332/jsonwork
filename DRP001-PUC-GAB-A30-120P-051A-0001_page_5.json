@@ -93,7 +93,7 @@
       "flanges_rqd_in_place_of_skt_weld_unions_7_5_2_8": true,
       "include_plotted_vibration_spectra_6_9_3_3": false,
       "connection_bolting_7_5_1_7": "not found",
-      "cadmium_plated_bolts_prohibited": true,
+      "cadmium_plated_bolts_prohibited": false,
       "vendor_to_keep_repair_and_ht_rcds_8_2_1_1_c": true,
       "vendor_submit_test_procedures_8_3_1_1": true,
       "submit_inspection_check_list_8_1_5": true

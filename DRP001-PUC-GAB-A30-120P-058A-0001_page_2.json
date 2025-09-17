@@ -60,7 +60,7 @@
         "minimum": null
       },
       "specific_heat": {
-        "units": "kcal/(kg\u00b0C)",
+        "units": "kcal/(kg°C)",
         "maximum": null,
         "rated": null,
         "minimum": null
@@ -101,7 +101,7 @@
       "toxic": "YES",
       "system_design_temperature": {
         "value": 260,
-        "units": "\u00b0C"
+        "units": "°C"
       },
       "system_design_pressure": {
         "value": 14.8,
@@ -111,7 +111,7 @@
     "operating_conditions": {
       "npsha_datum": "C.L. Impeller",
       "pumping_temperature": {
-        "units": "\u00b0C",
+        "units": "°C",
         "maximum": 74,
         "rated": 74,
         "normal": null,
@@ -169,12 +169,12 @@
     },
     "site_and_utility_data": {
       "location": {
-        "outdoor": true,
-        "unheated": true,
-        "unsheltered": true
+        "outdoor": false,
+        "unheated": false,
+        "unsheltered": false
       },
       "mounted_at": {
-        "grade": true,
+        "grade": false,
         "other": false
       },
       "tropicalisation_reqd": true,
@@ -196,7 +196,7 @@
         "range_of_ambient_temps": {
           "min": 5,
           "max": 49,
-          "units": "\u00b0C"
+          "units": "°C"
         },
         "relative_humidity": {
           "min": 4,
@@ -299,25 +299,25 @@
       },
       "rated_curve_bep_flow_at_rated_impeller_dia": {
         "value": 114.1,
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "min_flow": {
         "thermal": {
           "value": null,
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         },
         "stable": {
           "value": 34.24,
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         }
       },
       "preferred_operating_region": {
         "value": "79.87 to 136,92",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "allowable_operating_region": {
         "value": "34.24 to 136,92",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "max_head_at_rated_impeller": {
         "value": 143.7,

@@ -20,7 +20,7 @@
       "see_attached_api_670_data_sheet": false,
       "accelerometer": {
         "reference": "(7.4.2.1)",
-        "is_selected": true,
+        "is_selected": false,
         "number_of_accelerometers": "not found",
         "mounting_location_of_accelerometers": "not found"
       },
@@ -38,7 +38,7 @@
       },
       "vibration_probes": {
         "reference": "(7.4.2.2)",
-        "is_selected": true,
+        "is_selected": false,
         "provisions_for_vib_probes": {
           "is_selected": true,
           "value": "not found"
@@ -53,17 +53,17 @@
       },
       "temperature": {
         "reference": "(7.4.2.3)",
-        "is_selected": true,
+        "is_selected": false,
         "provisions_for_temp_probes": {
-          "is_selected": true,
+          "is_selected": false,
           "value": "not found"
         },
         "radial_bearing_temp": {
-          "is_selected": true,
+          "is_selected": false,
           "number_per_radial_bearing": "not found"
         },
         "thrust_bearing_temp": {
-          "is_selected": true,
+          "is_selected": false,
           "number_per_thrust_bearing_active_side": "not found",
           "number_per_thrust_bearing_inactive_side": "not found"
         }
@@ -105,16 +105,16 @@
       "cooling_water_requirements": {
         "bearing_housing": {
           "value": "not found",
-          "unit": "m\u00b3/h"
+          "unit": "m³/h"
         },
         "heat_exchanger": {
           "value": 1.5,
-          "unit": "m\u00b3/h"
+          "unit": "m³/h"
         }
       },
       "total_cooling_water": {
         "value": 1.5,
-        "unit": "m\u00b3/h"
+        "unit": "m³/h"
       },
       "heating_medium": "not found",
       "other": "not found",

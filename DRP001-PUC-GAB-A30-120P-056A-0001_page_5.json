@@ -27,7 +27,7 @@
         "specification_no": "DRP001-PUC-SPE-W-000-008"
       },
       "pump": {
-        "pump_surface_preparation": "UNI EN ISO 8501-1 SA 2\u00bd",
+        "pump_surface_preparation": "UNI EN ISO 8501-1 SA 2½",
         "primer": "Silicone Aluminium",
         "finish_coat": "RAL 7035 Light Grey"
       },
@@ -94,7 +94,7 @@
       "flanges_rqd_in_place_of_skt_weld_unions_7_5_2_8": true,
       "include_plotted_vibration_spectra_6_9_3_3": true,
       "connection_bolting_7_5_1_7": null,
-      "cadmium_plated_bolts_prohibited": true,
+      "cadmium_plated_bolts_prohibited": false,
       "vendor_to_keep_repair_and_ht_rcds_8_2_1_1_c": true,
       "vendor_submit_test_procedures_8_3_1_1": true,
       "submit_inspection_check_list_8_1_5": true
