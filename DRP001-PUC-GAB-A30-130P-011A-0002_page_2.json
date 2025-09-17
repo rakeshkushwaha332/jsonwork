@@ -63,7 +63,7 @@
         "minimum": null
       },
       "specificHeat": {
-        "units": "kcal/(kg\u00b0C)",
+        "units": "kcal/(kg°C)",
         "value": null
       },
       "viscosity": {
@@ -104,7 +104,7 @@
       "toxic": "YES",
       "systemDesignTemperature": {
         "value": "315",
-        "units": "\u00b0C"
+        "units": "°C"
       },
       "systemDesignPressure": {
         "value": "22",
@@ -118,7 +118,7 @@
         "value": "C.L. Impeller"
       },
       "pumpingTemperature": {
-        "units": "\u00b0C",
+        "units": "°C",
         "maximum": "238",
         "rated": "149",
         "normal": null,
@@ -165,9 +165,9 @@
       "locationAndMounting": {
         "sectionNote": "P6",
         "location": {
-          "outdoor": true,
-          "unheated": true,
-          "unsheltered": true
+          "outdoor": false,
+          "unheated": false,
+          "unsheltered": false
         },
         "mountedAt": "GRADE",
         "tropicalisationReqd": true
@@ -190,7 +190,7 @@
         "rangeOfAmbientTemps": {
           "min": "5",
           "max": "49",
-          "units": "\u00b0C"
+          "units": "°C"
         },
         "relativeHumidity": {
           "min": "4",
@@ -204,7 +204,7 @@
           "label": "INLET (min/norm/max)",
           "temp": {
             "value": "33",
-            "units": "\u00b0C"
+            "units": "°C"
           },
           "pressure": {
             "value": "4,5/5,5/6,5",
@@ -214,7 +214,7 @@
         "return": {
           "temp_max": {
             "value": "43",
-            "units": "\u00b0C"
+            "units": "°C"
           },
           "pressure_min": {
             "value": "3/3,5/4,5",
@@ -224,7 +224,7 @@
         "design": {
           "temp": {
             "value": "85",
-            "units": "\u00b0C"
+            "units": "°C"
           },
           "pressure": {
             "value": "13",
@@ -262,7 +262,7 @@
         },
         "heating": {
           "temp": {
-            "units": "\u00b0C",
+            "units": "°C",
             "max": "315",
             "norm": "290",
             "min": "220"
@@ -321,28 +321,28 @@
       },
       "ratedCurveBepFlow": {
         "value": "298.0",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "minFlow": {
         "thermal": {
           "value": null,
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         },
         "stable": {
           "value": "86.72",
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         }
       },
       "preferredOperatingRegion": {
         "ref": "(6.1.11)",
         "from": "208.6",
         "to": "357.6",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "allowableOperatingRegion": {
         "from": "86.72",
         "to": "357.6",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "maxHeadAtRatedImpeller": {
         "value": "170.2",

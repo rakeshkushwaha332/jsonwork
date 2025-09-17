@@ -45,7 +45,7 @@
         "minimum": null
       },
       "specific_heat": {
-        "units": "kcal/(kg\u00b0C)",
+        "units": "kcal/(kg°C)",
         "maximum": null,
         "rated": null,
         "minimum": null
@@ -72,7 +72,7 @@
       "toxic": "NO",
       "system_design_temperature": {
         "value": 90,
-        "units": "\u00b0C"
+        "units": "°C"
       },
       "system_design_pressure": {
         "value": 13.5,
@@ -82,7 +82,7 @@
     "operating_conditions": {
       "npsha_datum": "C.L. Impeller",
       "pumping_temperature": {
-        "units": "\u00b0C",
+        "units": "°C",
         "maximum": 65,
         "rated": 65,
         "normal": null,
@@ -140,9 +140,9 @@
     },
     "site_and_utility_data": {
       "location": {
-        "outdoor": true,
-        "unheated": true,
-        "unsheltered": true
+        "outdoor": false,
+        "unheated": false,
+        "unsheltered": false
       },
       "mounted_at": "GRADE",
       "tropicalisation_reqd": true,
@@ -164,7 +164,7 @@
         "range_of_ambient_temps": {
           "min": 5,
           "max": 49,
-          "units": "\u00b0C"
+          "units": "°C"
         },
         "relative_humidity": {
           "min": 4,
@@ -176,7 +176,7 @@
       "utility_conditions": {
         "cooling_water": {
           "temperature": {
-            "units": "\u00b0C",
+            "units": "°C",
             "inlet_min_norm_max": 33,
             "return": 43,
             "design": 85
@@ -206,7 +206,7 @@
         "steam": {
           "drivers": {
             "temperature": {
-              "units": "\u00b0C",
+              "units": "°C",
               "max": null,
               "norm": null,
               "min": null
@@ -220,7 +220,7 @@
           },
           "heating": {
             "temperature": {
-              "units": "\u00b0C",
+              "units": "°C",
               "max": 200,
               "norm": 180,
               "min": "sat"
@@ -277,27 +277,27 @@
       },
       "rated_curve_bep_flow": {
         "value": 323.7,
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "min_flow": {
         "thermal": {
           "value": null,
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         },
         "stable": {
           "value": 97.61,
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         }
       },
       "preferred_operating_region": {
         "from": 226.59,
         "to": 388.44,
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "allowable_operating_region": {
         "from": 97.61,
         "to": 388.44,
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "max_head_at_rated_impeller": {
         "value": 105.8,

@@ -55,7 +55,7 @@
         "minimum": null
       },
       "specific_heat": {
-        "units": "kcal/(kg\u00b0C)",
+        "units": "kcal/(kg°C)",
         "maximum": null,
         "rated": null,
         "minimum": null
@@ -81,7 +81,7 @@
       "toxic": "YES",
       "system_design_temperature": {
         "value": "115",
-        "units": "\u00b0C"
+        "units": "°C"
       },
       "system_design_pressure": {
         "value": "15",
@@ -91,7 +91,7 @@
     "operating_conditions_6_1_2": {
       "npsha_datum": "C.L. Impeller",
       "pumping_temperature": {
-        "units": "\u00b0C",
+        "units": "°C",
         "maximum": null,
         "rated": "65",
         "normal": null,
@@ -149,9 +149,9 @@
     },
     "site_and_utility_data": {
       "location": {
-        "outdoor": true,
-        "unheated": true,
-        "unsheltered": true
+        "outdoor": false,
+        "unheated": false,
+        "unsheltered": false
       },
       "mounted_at": "GRADE",
       "tropicalisation_reqd": true,
@@ -172,7 +172,7 @@
         "range_of_ambient_temps": {
           "min": "5",
           "max": "49",
-          "units": "\u00b0C"
+          "units": "°C"
         },
         "relative_humidity": {
           "min": "4",
@@ -207,15 +207,15 @@
         "cooling_water": {
           "inlet_min_norm_max_temp": {
             "value": "33",
-            "units": "\u00b0C"
+            "units": "°C"
           },
           "return_temp": {
             "max": "43",
-            "units": "\u00b0C"
+            "units": "°C"
           },
           "design_temp": {
             "value": "85",
-            "units": "\u00b0C"
+            "units": "°C"
           },
           "inlet_min_norm_max_pressure": {
             "value": "4,5/5,5/6,5",
@@ -293,25 +293,25 @@
       },
       "rated_curve_bep_flow_at_rated_impeller_dia": {
         "value": "121.9",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "min_flow": {
         "thermal": {
           "value": null,
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         },
         "stable": {
           "value": "38.38",
-          "units": "m\u00b3/h"
+          "units": "m³/h"
         }
       },
       "preferred_operating_region_6_1_11": {
         "value": "78,4 to 146.28",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "allowable_operating_region": {
         "value": "38.38 to 146.28",
-        "units": "m\u00b3/h"
+        "units": "m³/h"
       },
       "max_head_at_rated_impeller": {
         "value": "99.12",

@@ -59,7 +59,7 @@
         "maximum": null,
         "rated": null,
         "minimum": null,
-        "unit": "kcal/(kg\u00b0C)"
+        "unit": "kcal/(kg°C)"
       },
       "viscosity": {
         "maximum": null,
@@ -83,7 +83,7 @@
       "toxic": "YES",
       "system_design_temperature": {
         "value": 85,
-        "unit": "\u00b0C",
+        "unit": "°C",
         "rev_col": "01"
       },
       "system_design_pressure": {
@@ -104,7 +104,7 @@
         "rated": 60,
         "normal": null,
         "minimum": null,
-        "unit": "\u00b0C"
+        "unit": "°C"
       },
       "flow": {
         "p_number": "P7",
@@ -162,9 +162,9 @@
       "p_number_location": "P6",
       "p_number_main": "P1",
       "location": {
-        "outdoor": true,
-        "unheated": true,
-        "unsheltered": true
+        "outdoor": false,
+        "unheated": false,
+        "unsheltered": false
       },
       "mounted_at": {
         "grade": true
@@ -188,7 +188,7 @@
         "range_of_ambient_temps": {
           "min": 5,
           "max": 49,
-          "unit": "\u00b0C"
+          "unit": "°C"
         },
         "relative_humidity": {
           "min": 4,
@@ -288,27 +288,27 @@
       },
       "rated_curve_bep_flow": {
         "value": 365,
-        "unit": "m\u00b3/h"
+        "unit": "m³/h"
       },
       "min_flow": {
         "thermal": {
           "value": null,
-          "unit": "m\u00b3/h"
+          "unit": "m³/h"
         },
         "stable": {
           "value": "79,13",
-          "unit": "m\u00b3/h"
+          "unit": "m³/h"
         }
       },
       "preferred_operating_region_6_1_11": {
         "from": "255,5",
         "to": 438,
-        "unit": "m\u00b3/h"
+        "unit": "m³/h"
       },
       "allowable_operating_region": {
         "from": "79,13",
         "to": 438,
-        "unit": "m\u00b3/h"
+        "unit": "m³/h"
       },
       "max_head_at_rated_impeller": {
         "value": "80,23",

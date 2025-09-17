@@ -271,7 +271,7 @@
           },
           {
             "field_name": "CADMIUM PLATED BOLTS PROHIBITED",
-            "selected": true,
+            "selected": false,
             "value": "Not Found"
           },
           {
@@ -461,7 +461,7 @@
           },
           {
             "field_name": "NPSH (8.3.4.3.1) (8.3.4.3.4)",
-            "selected": true,
+            "selected": false,
             "value": "Not Found"
           },
           {
@@ -503,12 +503,12 @@
           },
           {
             "field_name": "LOCATION OF CLEANLINESS INSPECTION",
-            "selected": true,
+            "selected": false,
             "value": "Not Found"
           },
           {
             "field_name": "NOZZLE LOAD TEST",
-            "selected": true,
+            "selected": false,
             "value": "Not Found"
           },
           {
@@ -556,7 +556,7 @@
           },
           {
             "field_name": "LOCATION OF AUXILIARY EQUIPENT TEST",
-            "selected": true,
+            "selected": false,
             "value": "Not Found"
           },
           {
@@ -569,14 +569,14 @@
               },
               {
                 "field_name": "PER ASME SECTION VIII",
-                "selected": true,
+                "selected": false,
                 "value": "Not Found"
               }
             ]
           },
           {
             "field_name": "REMOVE CASING AFTER TEST",
-            "selected": true,
+            "selected": false,
             "value": "Not Found"
           }
         ]
